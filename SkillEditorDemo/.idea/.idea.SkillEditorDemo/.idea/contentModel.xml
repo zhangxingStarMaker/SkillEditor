@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\zhangxing03\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\zhangxing03\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_SkillEditorDemo.-786414955.00" t="ExcludeRecursive" />
-    <e p="D:\Bilibili\Project\Project_G29\Client_G29\Client_G29\SkillEditorDemo" t="IncludeRecursive">
+    <e p="C:\Users\zhangxing03\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_SkillEditorDemo.1549716314.00" t="ExcludeRecursive" />
+    <e p="D:\Bilibili\Project\Project_Skill\SkillEditor\SkillEditorDemo" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Art" t="Include" />
         <e p="artres" t="Include">
           <e p="abilityprefabs" t="Include" />
           <e p="abilitytimeline" t="Include" />
@@ -85,7 +84,11 @@
         <e p="Scenes" t="Include" />
         <e p="Scripts" t="Include">
           <e p="Editor" t="Include">
+            <e p="Actor" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
             <e p="ability" t="Include">
+              <e p="common" t="Include" />
               <e p="timeline" t="Include">
                 <e p="CollisionAsset" t="Include">
                   <e p="AbilityCollisionAsset.cs" t="Include" />
@@ -104,12 +107,6 @@
                   <e p="AbilityTriggerTrack.cs" t="Include" />
                 </e>
               </e>
-            </e>
-          </e>
-          <e p="Runtime" t="Include">
-            <e p="Actor" t="Include">
-              <e p="BoneRenderer.cs" t="Include" />
-              <e p="RoleDir.cs" t="Include" />
             </e>
           </e>
         </e>

@@ -363,8 +363,16 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Scripts/Runtime/Actor/BoneRenderer.cs"
-"Assets/Scripts/Runtime/Actor/RoleDir.cs"
+"Assets/Scripts/Runtime/ability/timeline/CollisionAsset/AbilityCollisionAsset.cs"
+"Assets/Scripts/Runtime/ability/timeline/CollisionAsset/AbilityCollisionBehaviour.cs"
+"Assets/Scripts/Runtime/ability/timeline/CollisionAsset/AbilityCollisionTrack.cs"
+"Assets/Scripts/Runtime/ability/timeline/InputAsset/AbilityInputAsset.cs"
+"Assets/Scripts/Runtime/ability/timeline/InputAsset/AbilityInputBehavior.cs"
+"Assets/Scripts/Runtime/ability/timeline/InputAsset/AbilityInputMixer.cs"
+"Assets/Scripts/Runtime/ability/timeline/InputAsset/AbilityInputTrack.cs"
+"Assets/Scripts/Runtime/ability/timeline/TriggerAsset/AbilityTriggerAsset.cs"
+"Assets/Scripts/Runtime/ability/timeline/TriggerAsset/AbilityTriggerBehaviour.cs"
+"Assets/Scripts/Runtime/ability/timeline/TriggerAsset/AbilityTriggerTrack.cs"
 -langversion:9.0
 
 /deterministic

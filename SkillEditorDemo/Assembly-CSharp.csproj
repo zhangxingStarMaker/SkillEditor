@@ -41,26 +41,39 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Runtime\Actor\BoneRenderer.cs" />
-     <Compile Include="Assets\Scripts\Runtime\Actor\RoleDir.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\InputAsset\AbilityInputMixer.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\TriggerAsset\AbilityTriggerAsset.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\CollisionAsset\AbilityCollisionAsset.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\CollisionAsset\AbilityCollisionBehaviour.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\TriggerAsset\AbilityTriggerBehaviour.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\TriggerAsset\AbilityTriggerTrack.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\InputAsset\AbilityInputBehavior.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\InputAsset\AbilityInputAsset.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\InputAsset\AbilityInputTrack.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\CollisionAsset\AbilityCollisionTrack.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\artres\actor\player\001\timeline" />
+     <Folder Include="Assets\Scripts\Runtime\ability\timeline\TriggerAsset" />
      <Folder Include="Assets\artres\actor\player\001\models\textures" />
      <Folder Include="Assets\artres\actor\player\001\ani" />
      <Folder Include="Assets\artres\actor\player\001\ani\weapon" />
      <Folder Include="Assets\artres\actor\player\001\models\ani" />
      <Folder Include="Assets\artres\actor\player\001\models" />
      <Folder Include="Assets\artres\actor\player\001\atk" />
+     <Folder Include="Assets\Scripts\Runtime" />
      <Folder Include="Assets\Scripts" />
+     <Folder Include="Assets\Scripts\Runtime\ability\timeline" />
+     <Folder Include="Assets\Scripts\Runtime\ability\timeline\CollisionAsset" />
      <Folder Include="Assets\artres\actor" />
      <Folder Include="Assets\artres\actor\player\001\ani\wp" />
+     <Folder Include="Assets\Scripts\Runtime\ability" />
      <Folder Include="Assets\artres\actor\player" />
      <Folder Include="Assets\artres\actor\player\001\ability" />
+     <Folder Include="Assets\Scripts\Runtime\ability\common" />
+     <Folder Include="Assets\Scripts\Runtime\ability\timeline\InputAsset" />
      <Folder Include="Assets\artres\abilitytimeline" />
      <Folder Include="Assets\artres\abilityprefabs" />
-     <Folder Include="Assets\Scripts\Runtime\Actor" />
      <Folder Include="Assets\artres\actor\player\001" />
-     <Folder Include="Assets\Scripts\Runtime" />
      <Folder Include="Assets\artres\actor\player\001\models\materials" />
      <Folder Include="Assets\Scenes" />
      <Folder Include="Assets\artres\actor\player\001\ani\camera1" />
