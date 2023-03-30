@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\zhangxing03\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\zhangxing03\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_SkillEditorDemo.-786414955.00" t="ExcludeRecursive" />
+    <e p="D:\Bilibili\Project\Project_G29\Client_G29\Client_G29\SkillEditorDemo" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Art" t="Include" />
+        <e p="artres" t="Include">
+          <e p="abilityprefabs" t="Include" />
+          <e p="abilitytimeline" t="Include" />
+          <e p="Actor" t="Include">
+            <e p="player" t="Include">
+              <e p="001" t="Include">
+                <e p="ability" t="Include" />
+                <e p="ani" t="Include">
+                  <e p="camera1" t="Include" />
+                  <e p="weapon" t="Include" />
+                  <e p="wp" t="Include" />
+                </e>
+                <e p="atk" t="Include" />
+                <e p="models" t="Include">
+                  <e p="ani" t="Include" />
+                  <e p="Materials" t="Include" />
+                  <e p="Textures" t="Include" />
+                </e>
+                <e p="timeline" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Sirenix" t="Include">
+            <e p="Assemblies" t="Include">
+              <e p="AOT" t="Include">
+                <e p="link.xml" t="Include" />
+              </e>
+              <e p="link.xml" t="Include" />
+              <e p="NoEditor" t="Include" />
+              <e p="NoEmitAndNoEditor" t="Include" />
+              <e p="Sirenix.OdinInspector.Attributes.xml" t="Include" />
+              <e p="Sirenix.OdinInspector.Editor.xml" t="Include" />
+              <e p="Sirenix.Serialization.Config.xml" t="Include" />
+              <e p="Sirenix.Serialization.xml" t="Include" />
+              <e p="Sirenix.Utilities.Editor.xml" t="Include" />
+              <e p="Sirenix.Utilities.xml" t="Include" />
+            </e>
+            <e p="Demos" t="Include" />
+            <e p="Odin Inspector" t="Include">
+              <e p="Assets" t="Include">
+                <e p="Editor" t="Include" />
+              </e>
+              <e p="Config" t="Include">
+                <e p="Editor" t="Include" />
+                <e p="Resources" t="Include">
+                  <e p="Sirenix" t="Include" />
+                </e>
+              </e>
+              <e p="Modules" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="AssemblyImportSettingsAutomation.cs" t="Include" />
+                  <e p="BuildAOTAutomation.cs" t="Include" />
+                  <e p="EnsureOdinInspectorDefine.cs" t="Include" />
+                  <e p="FixBrokenUnityObjectWrapperDrawer.cs" t="Include" />
+                  <e p="Sirenix.OdinInspector.CompatibilityLayer.Editor.asmdef" t="Include" />
+                  <e p="SyncListDrawer.cs" t="Include" />
+                  <e p="SyncVarAttributeDrawer.cs" t="Include" />
+                  <e p="Vector2IntMinMaxAttributeDrawer.cs" t="Include" />
+                  <e p="VectorIntDrawers.cs" t="Include" />
+                  <e p="VectorIntPropertyResolvers.cs" t="Include" />
+                </e>
+                <e p="SerializedNetworkBehaviour.cs" t="Include" />
+                <e p="Sirenix.OdinInspector.CompatibilityLayer.asmdef" t="Include" />
+                <e p="VectorIntFormatters.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scenes" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ability" t="Include">
+              <e p="timeline" t="Include">
+                <e p="CollisionAsset" t="Include">
+                  <e p="AbilityCollisionAsset.cs" t="Include" />
+                  <e p="AbilityCollisionBehaviour.cs" t="Include" />
+                  <e p="AbilityCollisionTrack.cs" t="Include" />
+                </e>
+                <e p="InputAsset" t="Include">
+                  <e p="AbilityInputAsset.cs" t="Include" />
+                  <e p="AbilityInputBehavior.cs" t="Include" />
+                  <e p="AbilityInputMixer.cs" t="Include" />
+                  <e p="AbilityInputTrack.cs" t="Include" />
+                </e>
+                <e p="TriggerAsset" t="Include">
+                  <e p="AbilityTriggerAsset.cs" t="Include" />
+                  <e p="AbilityTriggerBehaviour.cs" t="Include" />
+                  <e p="AbilityTriggerTrack.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="Actor" t="Include">
+              <e p="BoneRenderer.cs" t="Include" />
+              <e p="RoleDir.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Sirenix.OdinInspector.CompatibilityLayer.csproj" t="IncludeRecursive" />
+      <e p="Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" t="IncludeRecursive" />
+      <e p="SkillEditorDemo.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
