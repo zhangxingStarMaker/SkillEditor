@@ -84,11 +84,17 @@
         <e p="Scenes" t="Include" />
         <e p="Scripts" t="Include">
           <e p="Editor" t="Include">
+            <e p="ability" t="Include">
+              <e p="timeline" t="Include" />
+            </e>
             <e p="Actor" t="Include" />
           </e>
           <e p="Runtime" t="Include">
             <e p="ability" t="Include">
-              <e p="common" t="Include" />
+              <e p="common" t="Include">
+                <e p="AbilityTrackEditor.cs" t="Include" />
+                <e p="AbilityTrackInspector.cs" t="Include" />
+              </e>
               <e p="timeline" t="Include">
                 <e p="CollisionAsset" t="Include">
                   <e p="AbilityCollisionAsset.cs" t="Include" />
@@ -102,9 +108,15 @@
                   <e p="AbilityInputTrack.cs" t="Include" />
                 </e>
                 <e p="TriggerAsset" t="Include">
-                  <e p="AbilityTriggerAsset.cs" t="Include" />
-                  <e p="AbilityTriggerBehaviour.cs" t="Include" />
-                  <e p="AbilityTriggerTrack.cs" t="Include" />
+                  <e p="Editor" t="Include">
+                    <e p="AbilityTriggerTrackEditor.cs" t="Include" />
+                    <e p="AbilityTriggerTrackInspector.cs" t="Include" />
+                  </e>
+                  <e p="Runtime" t="Include">
+                    <e p="AbilityTriggerAsset.cs" t="Include" />
+                    <e p="AbilityTriggerBehaviour.cs" t="Include" />
+                    <e p="AbilityTriggerTrack.cs" t="Include" />
+                  </e>
                 </e>
               </e>
             </e>
