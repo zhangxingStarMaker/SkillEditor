@@ -145,7 +145,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34991798" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -189,7 +189,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680163057589</updated>
       <workItem from="1680163070657" duration="2268000" />
-      <workItem from="1680169201719" duration="14629000" />
+      <workItem from="1680169201719" duration="19115000" />
     </task>
     <servers />
   </component>
