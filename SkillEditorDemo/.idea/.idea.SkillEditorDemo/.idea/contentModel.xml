@@ -107,6 +107,18 @@
                   <e p="AbilityInputMixer.cs" t="Include" />
                   <e p="AbilityInputTrack.cs" t="Include" />
                 </e>
+                <e p="MoveAsset" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="AbilityMoveTrackEditor.cs" t="Include" />
+                    <e p="AbilityMoveTrackInspector.cs" t="Include" />
+                  </e>
+                  <e p="Runtime" t="Include">
+                    <e p="AbilityMoveAsset.cs" t="Include" />
+                    <e p="AbilityMoveBehaviour.cs" t="Include" />
+                    <e p="AbilityMoveMixer.cs" t="Include" />
+                    <e p="AbilityMoveTrack.cs" t="Include" />
+                  </e>
+                </e>
                 <e p="TriggerAsset" t="Include">
                   <e p="Editor" t="Include">
                     <e p="AbilityTriggerTrackEditor.cs" t="Include" />

@@ -53,6 +53,10 @@
      <Compile Include="Assets\Scripts\Runtime\ability\timeline\CollisionAsset\AbilityCollisionTrack.cs" />
      <Compile Include="Assets\Scripts\Runtime\ability\common\AbilityTrackInspector.cs" />
      <Compile Include="Assets\Scripts\Runtime\ability\common\AbilityTrackEditor.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\MoveAsset\Runtime\AbilityMoveTrack.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\MoveAsset\Runtime\AbilityMoveBehaviour.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\MoveAsset\Runtime\AbilityMoveAsset.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\MoveAsset\Runtime\AbilityMoveMixer.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\artres\actor\player\001\timeline" />
      <Folder Include="Assets\Scripts\Runtime\ability\timeline\TriggerAsset" />
@@ -79,7 +83,9 @@
      <Folder Include="Assets\artres\actor\player\001\models\materials" />
      <Folder Include="Assets\Scenes" />
      <Folder Include="Assets\Scripts\Runtime\ability\timeline\TriggerAsset\Runtime" />
+     <Folder Include="Assets\Scripts\Runtime\ability\timeline\MoveAsset" />
      <Folder Include="Assets\artres\actor\player\001\ani\camera1" />
+     <Folder Include="Assets\Scripts\Runtime\ability\timeline\MoveAsset\Runtime" />
      <Folder Include="Assets\artres" />
      <Reference Include="UnityEngine">
      <HintPath>E:\Bilibili\Unity\2021.3.5f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

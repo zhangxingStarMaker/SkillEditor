@@ -43,7 +43,10 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Runtime\ability\timeline\TriggerAsset\Editor\AbilityTriggerTrackInspector.cs" />
      <Compile Include="Assets\Scripts\Runtime\ability\timeline\TriggerAsset\Editor\AbilityTriggerTrackEditor.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\MoveAsset\Editor\AbilityMoveTrackInspector.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\MoveAsset\Editor\AbilityMoveTrackEditor.cs" />
      <Folder Include="Assets\Scripts\Editor\Ability\Timeline" />
+     <Folder Include="Assets\Scripts\Runtime\ability\timeline\MoveAsset\Editor" />
      <Folder Include="Assets\Scripts\Runtime\ability\timeline\TriggerAsset\Editor" />
      <Folder Include="Assets\Scripts\Editor\Actor" />
      <Folder Include="Assets\Scripts\Editor" />

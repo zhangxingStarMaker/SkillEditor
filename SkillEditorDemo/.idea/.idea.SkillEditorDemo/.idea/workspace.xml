@@ -135,6 +135,12 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/common/AbilityTrackEditor.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Editor/AbilityTriggerTrackEditor.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/common/AbilityTrackInspector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Runtime/AbilityMoveMixer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Runtime/AbilityMoveAsset.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Runtime/AbilityMoveBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Runtime/AbilityMoveTrack.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Editor/AbilityMoveTrackInspector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Editor/AbilityMoveTrackEditor.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2Nj2EDmJL3fSZhj6XVwZHsvyxwE" />
@@ -189,7 +195,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680163057589</updated>
       <workItem from="1680163070657" duration="2268000" />
-      <workItem from="1680169201719" duration="19115000" />
+      <workItem from="1680169201719" duration="21931000" />
     </task>
     <servers />
   </component>
