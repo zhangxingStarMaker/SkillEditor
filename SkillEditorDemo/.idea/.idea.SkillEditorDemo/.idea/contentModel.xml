@@ -97,15 +97,27 @@
               </e>
               <e p="timeline" t="Include">
                 <e p="CollisionAsset" t="Include">
-                  <e p="AbilityCollisionAsset.cs" t="Include" />
-                  <e p="AbilityCollisionBehaviour.cs" t="Include" />
-                  <e p="AbilityCollisionTrack.cs" t="Include" />
+                  <e p="Editor" t="Include">
+                    <e p="AbilityCollisionTrackEditor.cs" t="Include" />
+                    <e p="AbilityCollisionTrackInspector.cs" t="Include" />
+                  </e>
+                  <e p="Runtime" t="Include">
+                    <e p="AbilityCollisionAsset.cs" t="Include" />
+                    <e p="AbilityCollisionBehaviour.cs" t="Include" />
+                    <e p="AbilityCollisionTrack.cs" t="Include" />
+                  </e>
                 </e>
                 <e p="InputAsset" t="Include">
-                  <e p="AbilityInputAsset.cs" t="Include" />
-                  <e p="AbilityInputBehavior.cs" t="Include" />
-                  <e p="AbilityInputMixer.cs" t="Include" />
-                  <e p="AbilityInputTrack.cs" t="Include" />
+                  <e p="Editor" t="Include">
+                    <e p="AbilityInputTrackEditor.cs" t="Include" />
+                    <e p="AbilityInputTrackInspector.cs" t="Include" />
+                  </e>
+                  <e p="Runtime" t="Include">
+                    <e p="AbilityInputAsset.cs" t="Include" />
+                    <e p="AbilityInputBehavior.cs" t="Include" />
+                    <e p="AbilityInputMixer.cs" t="Include" />
+                    <e p="AbilityInputTrack.cs" t="Include" />
+                  </e>
                 </e>
                 <e p="MoveAsset" t="Include">
                   <e p="Editor" t="Include">
@@ -119,15 +131,26 @@
                     <e p="AbilityMoveTrack.cs" t="Include" />
                   </e>
                 </e>
-                <e p="TriggerAsset" t="Include">
+                <e p="PauseFrameAsset" t="Include">
                   <e p="Editor" t="Include">
-                    <e p="AbilityTriggerTrackEditor.cs" t="Include" />
-                    <e p="AbilityTriggerTrackInspector.cs" t="Include" />
+                    <e p="AbilityPauseFrameTrackEditor.cs" t="Include" />
+                    <e p="AbilityPauseFrameTrackInspector.cs" t="Include" />
                   </e>
                   <e p="Runtime" t="Include">
-                    <e p="AbilityTriggerAsset.cs" t="Include" />
-                    <e p="AbilityTriggerBehaviour.cs" t="Include" />
-                    <e p="AbilityTriggerTrack.cs" t="Include" />
+                    <e p="AbilityPauseFrameAsset.cs" t="Include" />
+                    <e p="AbilityPauseFrameBehaviour.cs" t="Include" />
+                    <e p="AbilityPauseFrameTrack.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="ShockAsset" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="AbilityShockTrackEditor.cs" t="Include" />
+                    <e p="AbilityShockTrackInspector.cs" t="Include" />
+                  </e>
+                  <e p="Runtime" t="Include">
+                    <e p="AbilityShockAsset.cs" t="Include" />
+                    <e p="AbilityShockBehaviour.cs" t="Include" />
+                    <e p="AbilityShockTrack.cs" t="Include" />
                   </e>
                 </e>
               </e>

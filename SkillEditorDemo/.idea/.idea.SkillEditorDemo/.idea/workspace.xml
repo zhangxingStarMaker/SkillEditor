@@ -2,20 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7654bdc5-9bc6-4426-b57d-c1c37f5b03cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Editor/AbilityShockTrackEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Runtime/AbilityShockAsset.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/AbilityTriggerAsset.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerAsset.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/AbilityTriggerAsset.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerAsset.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/AbilityTriggerBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerBehaviour.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/AbilityTriggerBehaviour.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerBehaviour.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/AbilityTriggerTrack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerTrack.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/AbilityTriggerTrack.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerTrack.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/common/AbilityTrackEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/common/AbilityTrackEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/AbilityCollisionAsset.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/Runtime/AbilityCollisionAsset.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/AbilityCollisionAsset.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/Runtime/AbilityCollisionAsset.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/AbilityCollisionBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/Runtime/AbilityCollisionBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/AbilityCollisionBehaviour.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/Runtime/AbilityCollisionBehaviour.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/AbilityCollisionTrack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/Runtime/AbilityCollisionTrack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/AbilityCollisionTrack.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/Runtime/AbilityCollisionTrack.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/AbilityInputAsset.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/Runtime/AbilityInputAsset.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/AbilityInputAsset.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/Runtime/AbilityInputAsset.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/AbilityInputBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/Runtime/AbilityInputBehavior.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/AbilityInputBehavior.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/Runtime/AbilityInputBehavior.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/AbilityInputMixer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/Runtime/AbilityInputMixer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/AbilityInputMixer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/Runtime/AbilityInputMixer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/AbilityInputTrack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/Runtime/AbilityInputTrack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/AbilityInputTrack.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/Runtime/AbilityInputTrack.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Editor/AbilityMoveTrackEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Editor/AbilityMoveTrackEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Runtime/AbilityMoveAsset.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Runtime/AbilityMoveAsset.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Editor/AbilityTriggerTrackEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Editor/AbilityTriggerTrackEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Editor/AbilityShockTrackEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Editor/AbilityTriggerTrackInspector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Editor/AbilityShockTrackInspector.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Editor/AbilityTriggerTrackInspector.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Editor/AbilityShockTrackInspector.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Runtime.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerAsset.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerAsset.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Runtime/AbilityShockAsset.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Runtime/AbilityShockBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerBehaviour.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Runtime/AbilityShockBehaviour.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerTrack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Runtime/AbilityShockTrack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerTrack.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Runtime/AbilityShockTrack.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/artres/abilitytimeline/skillexample.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/artres/abilitytimeline/skillexample.playable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/artres/actor/player/001/herobase1.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/artres/actor/player/001/herobase1.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/81/81a01a4cb7bc9c73bac970d862c591b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/83/83a46229126d11f41e5d316ee2d430ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a3/a37fbebf7484dcf0fbdae24fb03e2447" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b9/b9b0a707f9d899e71a52cce13717c2e8" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE-inputdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE-inputdata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.outputdata" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.outputdata" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag_derived" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag_derived" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state.map" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state.map" afterDir="false" />
@@ -29,8 +62,10 @@
       <change beforePath="$PROJECT_DIR$/Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/fullprofile.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.log.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/EditorOnlyScriptingSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorOnlyScriptingSettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Sirenix.OdinInspector.CompatibilityLayer.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Sirenix.OdinInspector.CompatibilityLayer.Editor.dll" afterDir="false" />
@@ -94,11 +129,15 @@
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Search/transactions.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Search/transactions.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Timeline/2c29df49d3bf3884e96f4b4f92f4f70c.pref" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Timeline/2c29df49d3bf3884e96f4b4f92f4f70c.pref" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkillEditorDemo.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SkillEditorDemo.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,9 +149,19 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B3A5B37C-B0FA-42CD-BCAC-B0CAD70DFD0C/37/f189ead0/Editor.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.4/Editor/CustomEditors/TrackEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CBF0A658-BE6B-4A09-B610-D7D2917B90F1/63/08cf1185/ScriptPlayable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Runtime/AbilityShockTrack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Runtime/AbilityShockBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Editor/AbilityShockTrackEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Runtime/AbilityShockAsset.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B3A5B37C-B0FA-42CD-BCAC-B0CAD70DFD0C/fe/b6dcc108/EditorGUILayout.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C701CC3C-DA1A-4E70-A8E0-0519D656AC5A/dc/d1ecb041/ShowIfAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Editor/AbilityShockTrackInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Runtime/AbilityPauseFrameBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.4/Editor/CustomEditors/TrackEditor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.4/Editor/Actions/ActionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CBF0A658-BE6B-4A09-B610-D7D2917B90F1/88/1f7a04c5/PlayableBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Runtime/AbilityPauseFrameAsset.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -132,19 +181,40 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Editor/TriggerTrackEditor.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Editor/AbilityTriggerTrackInspector.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityTriggerTrack.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/common/AbilityTrackEditor.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Editor/AbilityTriggerTrackEditor.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/common/AbilityTrackInspector.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Runtime/AbilityMoveMixer.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Runtime/AbilityMoveAsset.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Runtime/AbilityMoveBehaviour.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Runtime/AbilityMoveTrack.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Editor/AbilityMoveTrackInspector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/common/AbilityTrackEditor.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Editor/AbilityMoveTrackEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/MoveAsset/Runtime/AbilityMoveAsset.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/Editor/AbilityInputTrackInspector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/InputAsset/Editor/AbilityInputTrackEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/Editor/AbilityCollisionTrackInspector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/CollisionAsset/Editor/AbilityCollisionTrackEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Editor/AbilityTriggerTrackEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Editor/AbilityShockTrackEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Editor/AbilityShockTrackInspector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityShockAsset.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityShockBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/TriggerAsset/Runtime/AbilityShockTrack.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Runtime/AbilityShockAsset.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Runtime/AbilityShockBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Runtime/AbilityShockTrack.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Editor/AbilityShockTrackEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Editor/AbilityShockTrackInspector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Editor/AbilityPauseFrameTrackEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Runtime/AbilityShockBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Runtime/AbilityPauseFrameTrack.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Runtime/AbilityPauseFrameAsset.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Runtime/AbilityPauseFrameBehaviour.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2Nj2EDmJL3fSZhj6XVwZHsvyxwE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -157,6 +227,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -164,6 +235,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -176,10 +248,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="20084">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="20084" />
+      <option name="pid" />
       <option name="selectedOptions">
         <list />
       </option>
@@ -195,7 +267,8 @@
       <option name="presentableId" value="Default" />
       <updated>1680163057589</updated>
       <workItem from="1680163070657" duration="2268000" />
-      <workItem from="1680169201719" duration="21931000" />
+      <workItem from="1680169201719" duration="22461000" />
+      <workItem from="1680489275467" duration="14572000" />
     </task>
     <servers />
   </component>

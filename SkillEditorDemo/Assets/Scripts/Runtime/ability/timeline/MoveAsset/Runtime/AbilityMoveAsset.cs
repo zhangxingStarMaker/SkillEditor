@@ -6,9 +6,10 @@ namespace AbilitySystem
     [System.Serializable]
     public class AbilityMoveAsset : PlayableAsset
     {
+        public AbilityMoveBehaviour AbilityMoveBehaviour = new AbilityMoveBehaviour();
         public override Playable CreatePlayable(PlayableGraph graph, GameObject owner)
         {
-            throw new System.NotImplementedException();
+            return ScriptPlayable<AbilityMoveBehaviour>.Create(graph,AbilityMoveBehaviour);
         }
     }
 }

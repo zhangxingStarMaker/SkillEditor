@@ -41,13 +41,22 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Runtime\ability\timeline\TriggerAsset\Editor\AbilityTriggerTrackInspector.cs" />
-     <Compile Include="Assets\Scripts\Runtime\ability\timeline\TriggerAsset\Editor\AbilityTriggerTrackEditor.cs" />
      <Compile Include="Assets\Scripts\Runtime\ability\timeline\MoveAsset\Editor\AbilityMoveTrackInspector.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\ShockAsset\Editor\AbilityShockTrackInspector.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\ShockAsset\Editor\AbilityShockTrackEditor.cs" />
      <Compile Include="Assets\Scripts\Runtime\ability\timeline\MoveAsset\Editor\AbilityMoveTrackEditor.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\InputAsset\Editor\AbilityInputTrackInspector.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\InputAsset\Editor\AbilityInputTrackEditor.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\CollisionAsset\Editor\AbilityCollisionTrackInspector.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\CollisionAsset\Editor\AbilityCollisionTrackEditor.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\PauseFrameAsset\Editor\AbilityPauseFrameTrackEditor.cs" />
+     <Compile Include="Assets\Scripts\Runtime\ability\timeline\PauseFrameAsset\Editor\AbilityPauseFrameTrackInspector.cs" />
+     <Folder Include="Assets\Scripts\Runtime\ability\timeline\PauseFrameAsset\Editor" />
      <Folder Include="Assets\Scripts\Editor\Ability\Timeline" />
+     <Folder Include="Assets\Scripts\Runtime\ability\timeline\InputAsset\Editor" />
+     <Folder Include="Assets\Scripts\Runtime\ability\timeline\CollisionAsset\Editor" />
      <Folder Include="Assets\Scripts\Runtime\ability\timeline\MoveAsset\Editor" />
-     <Folder Include="Assets\Scripts\Runtime\ability\timeline\TriggerAsset\Editor" />
+     <Folder Include="Assets\Scripts\Runtime\ability\timeline\ShockAsset\Editor" />
      <Folder Include="Assets\Scripts\Editor\Actor" />
      <Folder Include="Assets\Scripts\Editor" />
      <Folder Include="Assets\Scripts\Editor\Ability" />
