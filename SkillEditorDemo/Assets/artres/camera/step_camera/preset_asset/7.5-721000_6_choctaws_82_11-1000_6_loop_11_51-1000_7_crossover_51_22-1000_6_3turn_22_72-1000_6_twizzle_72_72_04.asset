@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b56c0cb98baa4587865c63d6e984eec4, type: 3}
+  m_Name: 7.5-721000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_22-1000_6_3turn_22_72-1000_6_twizzle_72_72_04
+  m_EditorClassIdentifier: 
+  CurCameraType: 0
+  VirtualCamera: {fileID: 1878311228908006807, guid: 7e895fa2bb99bc74caae41ccf6ce4a4c, type: 3}
+  CameraFollowMarks:
+  - CameraMarkTarget: 3
+    TimeOffsetControl: 0
+    TimeOffset: 0
+    WorldPosition: {x: 0, y: 0, z: 0}
+    WorldRotation: {x: 0, y: 0, z: 0, w: 1}
+    ActorOffsetControl: 0
+    ActorOffsetType: 0
+    ActorOffset: {x: 0, y: 0, z: 0}
+    PathOffsetControl: 0
+    PathOffsetType: 0
+    PathOffset: {x: 0, y: 0, z: 0}
+    ScaleWeight: 1
+    RealWeight: 1
+    IsSlow: 0
+    Speed: 100
+    DialogueTargetRoleName: 
+  CameraLookMarks:
+  - CameraMarkTarget: 3
+    TimeOffsetControl: 0
+    TimeOffset: 0
+    WorldPosition: {x: 0, y: 0, z: 0}
+    WorldRotation: {x: 0, y: 0, z: 0, w: 1}
+    ActorOffsetControl: 0
+    ActorOffsetType: 0
+    ActorOffset: {x: 0, y: 0, z: 0}
+    PathOffsetControl: 0
+    PathOffsetType: 0
+    PathOffset: {x: 0, y: 0, z: 0}
+    ScaleWeight: 1
+    RealWeight: 1
+    IsSlow: 0
+    Speed: 100
+    DialogueTargetRoleName: 
+  AnimationClip:
+  - {fileID: 0}
+  TransitionTime: 0

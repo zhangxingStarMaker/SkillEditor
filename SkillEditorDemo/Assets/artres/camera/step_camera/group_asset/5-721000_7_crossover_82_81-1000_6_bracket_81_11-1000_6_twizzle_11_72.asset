@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede9075ccdd94cd9addb51f370b4e844, type: 3}
+  m_Name: 5-721000_7_crossover_82_81-1000_6_bracket_81_11-1000_6_twizzle_11_72
+  m_EditorClassIdentifier: 
+  CameraGroupItemAssetList:
+  - CameraAsset: {fileID: 11400000, guid: 97db14890ef96314ba827b46d673da73, type: 2}
+    StartTime: 0
+    EndTime: 1.6866446733474731
+  - CameraAsset: {fileID: 11400000, guid: 0436468a3f15f6d42946cc54a77dc558, type: 2}
+    StartTime: 0
+    EndTime: 3.27604877948761
+  - CameraAsset: {fileID: 11400000, guid: bff4f40fd17b49a498052761f0afbc1d, type: 2}
+    StartTime: 2.25
+    EndTime: 5.016666531562805
+  - CameraAsset: {fileID: 11400000, guid: f493c7d3d296a5641961b933d367e538, type: 2}
+    StartTime: 3.27604877948761
+    EndTime: 5.0333335399627686
+  StartTime: 0
+  EndTime: 5.5329999923706055

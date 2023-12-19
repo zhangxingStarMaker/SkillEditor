@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede9075ccdd94cd9addb51f370b4e844, type: 3}
+  m_Name: step_group_test
+  m_EditorClassIdentifier: 
+  CameraGroupItemAssetList:
+  - CameraAsset: {fileID: 11400000, guid: a5b60401cf40b754f8f6bc71477ff05c, type: 2}
+    StartTime: 0
+    EndTime: 4
+  - CameraAsset: {fileID: 11400000, guid: b3ade2ac55a3ca640a226e0f2e19c60a, type: 2}
+    StartTime: 4
+    EndTime: 6.5
+  - CameraAsset: {fileID: 11400000, guid: b1fe9c56ab892774bbc82d0c249239ca, type: 2}
+    StartTime: 6.5
+    EndTime: 10
+  StartTime: 0
+  EndTime: 10

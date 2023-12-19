@@ -1,0 +1,1197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8e9e453457f47a78117a518a90dc8b7, type: 3}
+  m_Name: camera_gm
+  m_EditorClassIdentifier: 
+  RuntimeCameraDataList:
+  - StartTime: 0
+    DurationTime: 14.466667
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/link_art_start.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 1, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: major
+  - StartTime: 14.466667
+    DurationTime: 2.776825
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 565fa31956bb4ed43a328af5251fe9cf, type: 2}
+    AssetName: 6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_02
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 14.466667
+    DurationTime: 1.3953485
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 7b75d542d13b7f14781e4fd99b6706cc, type: 2}
+    AssetName: 6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_01
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 17.243492
+    DurationTime: 3.1201859
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: fad6f3136bf4c6e4b8bfd08f6af08484, type: 2}
+    AssetName: 6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_03
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 17.888594
+    DurationTime: 3.0739613
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: d5258f6ff31de954b9a9b21dfcfd12d0, type: 2}
+    AssetName: 6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_04
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 20.962555
+    DurationTime: 0.39999962
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_foot.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 21.362555
+    DurationTime: 3.1041121
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_fly.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 24.466667
+    DurationTime: 2.52322
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 0c3246419fe10c24f87cd8754fab2f81, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_02
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 24.466667
+    DurationTime: 1.3467484
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: aa32947f0ead3dd409a99bb07b6050f9, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_01
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 26.989887
+    DurationTime: 1.9907112
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 9e5af9f40346e5146a3f5e6aa0a904da, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_03
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 28.980598
+    DurationTime: 2.9164085
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 9cc8cd90b8ba66c418919b711b3868a2, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_04
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 30.240662
+    DurationTime: 1.6563454
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: a399fdb675492974ab1ec6bc79576c95, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_05
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 31.897007
+    DurationTime: 2.5696602
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_fly.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 34.466667
+    DurationTime: 1.403225
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: aa32947f0ead3dd409a99bb07b6050f9, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_01
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 34.466667
+    DurationTime: 2.6290321
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 0c3246419fe10c24f87cd8754fab2f81, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_02
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 37.0957
+    DurationTime: 2.074192
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 9e5af9f40346e5146a3f5e6aa0a904da, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_03
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 39.16989
+    DurationTime: 3.0387115
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 9cc8cd90b8ba66c418919b711b3868a2, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_04
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 40.482796
+    DurationTime: 2.2720528
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: a399fdb675492974ab1ec6bc79576c95, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_05
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 42.75485
+    DurationTime: 0.40000153
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_foot.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 43.15485
+    DurationTime: 1.3118187
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_fly.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 44.466667
+    DurationTime: 2.728794
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 0c3246419fe10c24f87cd8754fab2f81, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_02
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 44.466667
+    DurationTime: 1.4564743
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: aa32947f0ead3dd409a99bb07b6050f9, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_01
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 47.19546
+    DurationTime: 2.1529007
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 9e5af9f40346e5146a3f5e6aa0a904da, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_03
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 49.348362
+    DurationTime: 3.1540184
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 9cc8cd90b8ba66c418919b711b3868a2, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_04
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 50.711086
+    DurationTime: 1.7912941
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: a399fdb675492974ab1ec6bc79576c95, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_05
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 52.50238
+    DurationTime: 6.964286
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_fly.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 59.466667
+    DurationTime: 1.4169388
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: aa32947f0ead3dd409a99bb07b6050f9, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_01
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 59.466667
+    DurationTime: 2.6547241
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 0c3246419fe10c24f87cd8754fab2f81, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_02
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 62.12139
+    DurationTime: 2.0944595
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 9e5af9f40346e5146a3f5e6aa0a904da, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_03
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 64.21585
+    DurationTime: 3.0684052
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 9cc8cd90b8ba66c418919b711b3868a2, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_04
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 65.54159
+    DurationTime: 2.1884918
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: a399fdb675492974ab1ec6bc79576c95, type: 2}
+    AssetName: 8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_05
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 67.73008
+    DurationTime: 0.40000153
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_foot.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 68.13008
+    DurationTime: 1.3365875
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_fly.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 69.46667
+    DurationTime: 2.6197052
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 29b317a6b7c28f24fbc3420c656955bc, type: 2}
+    AssetName: 8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_02
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 69.46667
+    DurationTime: 1.4169388
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: f934abca04cb43d4b84d2e557783db27, type: 2}
+    AssetName: 8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_01
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 72.08637
+    DurationTime: 1.9731293
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 4218b8152d938b34cb66c88e75b7a179, type: 2}
+    AssetName: 8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_03
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 74.0595
+    DurationTime: 3.2247543
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: c07f035ba46ab0840ad14e1edf4fa16c, type: 2}
+    AssetName: 8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_04
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 75.70853
+    DurationTime: 2.021553
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: be00beb4e91ca2c4eaac97629fc6f6e5, type: 2}
+    AssetName: 8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_05
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 77.73008
+    DurationTime: 0.40000153
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_foot.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 78.13008
+    DurationTime: 1.3365875
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_fly.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 79.46667
+    DurationTime: 2.8722458
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 565fa31956bb4ed43a328af5251fe9cf, type: 2}
+    AssetName: 6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_02
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 79.46667
+    DurationTime: 1.4432983
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 7b75d542d13b7f14781e4fd99b6706cc, type: 2}
+    AssetName: 6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_01
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 82.33891
+    DurationTime: 3.2274094
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: fad6f3136bf4c6e4b8bfd08f6af08484, type: 2}
+    AssetName: 6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_03
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 83.00619
+    DurationTime: 3.2391586
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: d5258f6ff31de954b9a9b21dfcfd12d0, type: 2}
+    AssetName: 6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_04
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 86.245346
+    DurationTime: 0.40000153
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_foot.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 86.64535
+    DurationTime: 2.821321
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_fly.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 89.46667
+    DurationTime: 1.3859634
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 29ca63cef897a6748bab4d9eeef44b58, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_01
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 89.46667
+    DurationTime: 2.5212173
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: bf031cedf232fe442837396cc7149794, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_02
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 91.987885
+    DurationTime: 1.6463776
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 9e1d07fd4bfbf8140b37396ac7a43d61, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_03
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 93.63426
+    DurationTime: 2.1131058
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 62422ab7d2221be478cc355e72f53e68, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_04
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 95.74737
+    DurationTime: 3.7192993
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_fly.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 99.46667
+    DurationTime: 2.3898468
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: bf031cedf232fe442837396cc7149794, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_02
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 99.46667
+    DurationTime: 1.3137436
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 29ca63cef897a6748bab4d9eeef44b58, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_01
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 101.856514
+    DurationTime: 1.5605927
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 9e1d07fd4bfbf8140b37396ac7a43d61, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_03
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 103.41711
+    DurationTime: 2.0029984
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 62422ab7d2221be478cc355e72f53e68, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_04
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 105.420105
+    DurationTime: 9.046563
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_fly.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 114.46667
+    DurationTime: 1.3137436
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 29ca63cef897a6748bab4d9eeef44b58, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_01
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 114.46667
+    DurationTime: 2.3898468
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: bf031cedf232fe442837396cc7149794, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_02
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 116.856514
+    DurationTime: 1.5605927
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 9e1d07fd4bfbf8140b37396ac7a43d61, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_03
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 118.41711
+    DurationTime: 2.0029984
+    EndTime: 0
+    CameraAsset: {fileID: 11400000, guid: 62422ab7d2221be478cc355e72f53e68, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_04
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 120.420105
+    DurationTime: 9.046563
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/jump_fly.asset
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 129.46667
+    DurationTime: 14.666667
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/link_art_end.asset
+    Index: 0
+    Pos: {x: 1.23, y: 0, z: -11.02}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: major
+  - StartTime: 144.13335
+    DurationTime: 1.9000001
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/link_art_end_pre_loop.asset
+    Index: 0
+    Pos: {x: -0.12, y: 0, z: 0.05}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: major
+  - StartTime: 146.03334
+    DurationTime: 1.2
+    EndTime: 0
+    CameraAsset: {fileID: 0}
+    AssetName: art_online/battle/camera/preset_asset/link_art_end_loop.asset
+    Index: 0
+    Pos: {x: 0.02, y: 0, z: 0.01}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: major
+  EditorCameraDataList:
+  - StartTime: 0
+    DurationTime: 14.466667
+    EndTime: 14.466667
+    CameraAsset: {fileID: 11400000, guid: f5b54aa1d7bf011428d48a86dc13f61f, type: 2}
+    AssetName: link_art_start
+    Index: 0
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 1, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 14.466667
+    DurationTime: 2.135231
+    EndTime: 16.601898
+    CameraAsset: {fileID: 11400000, guid: a063df430813dba48826a8b15082cae4, type: 2}
+    AssetName: 4-721000_6_choctaws_82_11-1000_7_crossover_11_22-1000_6_3turn_22_72_01
+    Index: 1
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 14.466667
+    DurationTime: 4.128113
+    EndTime: 18.59478
+    CameraAsset: {fileID: 11400000, guid: 399fb5f4d69567b4391ae2e08847cfed, type: 2}
+    AssetName: 4-721000_6_choctaws_82_11-1000_7_crossover_11_22-1000_6_3turn_22_72_02
+    Index: 2
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 18.59478
+    DurationTime: 5.8718863
+    EndTime: 24.466667
+    CameraAsset: {fileID: 11400000, guid: e64dfb44a1f72a24f97914340a5c7b75, type: 2}
+    AssetName: jump_fly
+    Index: 3
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 24.46667
+    DurationTime: 1.2950821
+    EndTime: 25.761751
+    CameraAsset: {fileID: 11400000, guid: 29ca63cef897a6748bab4d9eeef44b58, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_01
+    Index: 4
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 24.46667
+    DurationTime: 2.355894
+    EndTime: 26.822563
+    CameraAsset: {fileID: 11400000, guid: bf031cedf232fe442837396cc7149794, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_02
+    Index: 5
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 26.822563
+    DurationTime: 1.5384197
+    EndTime: 28.360983
+    CameraAsset: {fileID: 11400000, guid: 9e1d07fd4bfbf8140b37396ac7a43d61, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_03
+    Index: 6
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 28.360981
+    DurationTime: 4.5616837
+    EndTime: 32.922665
+    CameraAsset: {fileID: 11400000, guid: 62422ab7d2221be478cc355e72f53e68, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_04
+    Index: 7
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 32.922665
+    DurationTime: 0.40000153
+    EndTime: 33.322666
+    CameraAsset: {fileID: 11400000, guid: 51d5221a018e1784ba66a9cbdf8d8373, type: 2}
+    AssetName: jump_foot
+    Index: 8
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 33.322666
+    DurationTime: 1.1440026
+    EndTime: 34.466667
+    CameraAsset: {fileID: 11400000, guid: e64dfb44a1f72a24f97914340a5c7b75, type: 2}
+    AssetName: jump_fly
+    Index: 9
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 34.46667
+    DurationTime: 1.3249207
+    EndTime: 35.79159
+    CameraAsset: {fileID: 11400000, guid: 7b75d542d13b7f14781e4fd99b6706cc, type: 2}
+    AssetName: 6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_01
+    Index: 10
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 34.46667
+    DurationTime: 2.6366692
+    EndTime: 37.10334
+    CameraAsset: {fileID: 11400000, guid: 565fa31956bb4ed43a328af5251fe9cf, type: 2}
+    AssetName: 6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_02
+    Index: 11
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 37.10334
+    DurationTime: 2.9627
+    EndTime: 40.06604
+    CameraAsset: {fileID: 11400000, guid: fad6f3136bf4c6e4b8bfd08f6af08484, type: 2}
+    AssetName: 6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_03
+    Index: 12
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 37.71588
+    DurationTime: 2.492115
+    EndTime: 40.207996
+    CameraAsset: {fileID: 11400000, guid: d5258f6ff31de954b9a9b21dfcfd12d0, type: 2}
+    AssetName: 6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_04
+    Index: 13
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 40.207996
+    DurationTime: 4.2586746
+    EndTime: 44.46667
+    CameraAsset: {fileID: 11400000, guid: e64dfb44a1f72a24f97914340a5c7b75, type: 2}
+    AssetName: jump_fly
+    Index: 14
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 44.46667
+    DurationTime: 2.205883
+    EndTime: 46.672554
+    CameraAsset: {fileID: 11400000, guid: a063df430813dba48826a8b15082cae4, type: 2}
+    AssetName: 4-721000_6_choctaws_82_11-1000_7_crossover_11_22-1000_6_3turn_22_72_01
+    Index: 15
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 44.46667
+    DurationTime: 4.2647057
+    EndTime: 48.731377
+    CameraAsset: {fileID: 11400000, guid: 399fb5f4d69567b4391ae2e08847cfed, type: 2}
+    AssetName: 4-721000_6_choctaws_82_11-1000_7_crossover_11_22-1000_6_3turn_22_72_02
+    Index: 16
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 48.731377
+    DurationTime: 5.7352943
+    EndTime: 54.46667
+    CameraAsset: {fileID: 11400000, guid: e64dfb44a1f72a24f97914340a5c7b75, type: 2}
+    AssetName: jump_fly
+    Index: 17
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 54.46667
+    DurationTime: 1.3079453
+    EndTime: 55.774616
+    CameraAsset: {fileID: 11400000, guid: 29ca63cef897a6748bab4d9eeef44b58, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_01
+    Index: 18
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 54.46667
+    DurationTime: 2.3792953
+    EndTime: 56.845966
+    CameraAsset: {fileID: 11400000, guid: bf031cedf232fe442837396cc7149794, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_02
+    Index: 19
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 56.845966
+    DurationTime: 1.5536995
+    EndTime: 58.399666
+    CameraAsset: {fileID: 11400000, guid: 9e1d07fd4bfbf8140b37396ac7a43d61, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_03
+    Index: 20
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 58.39967
+    DurationTime: 4.5111313
+    EndTime: 62.9108
+    CameraAsset: {fileID: 11400000, guid: 62422ab7d2221be478cc355e72f53e68, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_04
+    Index: 21
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 62.9108
+    DurationTime: 0.40000153
+    EndTime: 63.310802
+    CameraAsset: {fileID: 11400000, guid: 51d5221a018e1784ba66a9cbdf8d8373, type: 2}
+    AssetName: jump_foot
+    Index: 22
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 63.310802
+    DurationTime: 1.1558663
+    EndTime: 64.46667
+    CameraAsset: {fileID: 11400000, guid: e64dfb44a1f72a24f97914340a5c7b75, type: 2}
+    AssetName: jump_fly
+    Index: 23
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 64.46667
+    DurationTime: 2.1897812
+    EndTime: 66.65645
+    CameraAsset: {fileID: 11400000, guid: ebf8dcccb588c184cb61801814459c5c, type: 2}
+    AssetName: 4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11_01
+    Index: 24
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 64.46667
+    DurationTime: 4.3795624
+    EndTime: 68.84623
+    CameraAsset: {fileID: 11400000, guid: 27d40f5d153defe4eb30d5d9ae3f7ea7, type: 2}
+    AssetName: 4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11_02
+    Index: 25
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 68.84623
+    DurationTime: 5.620438
+    EndTime: 74.46667
+    CameraAsset: {fileID: 11400000, guid: e64dfb44a1f72a24f97914340a5c7b75, type: 2}
+    AssetName: jump_fly
+    Index: 26
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 74.46667
+    DurationTime: 2.1977997
+    EndTime: 76.66447
+    CameraAsset: {fileID: 11400000, guid: ebf8dcccb588c184cb61801814459c5c, type: 2}
+    AssetName: 4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11_01
+    Index: 27
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 74.46667
+    DurationTime: 4.395607
+    EndTime: 78.862274
+    CameraAsset: {fileID: 11400000, guid: 27d40f5d153defe4eb30d5d9ae3f7ea7, type: 2}
+    AssetName: 4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11_02
+    Index: 28
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 78.862274
+    DurationTime: 5.604396
+    EndTime: 84.46667
+    CameraAsset: {fileID: 11400000, guid: e64dfb44a1f72a24f97914340a5c7b75, type: 2}
+    AssetName: jump_fly
+    Index: 29
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 84.46667
+    DurationTime: 2.12014
+    EndTime: 86.58681
+    CameraAsset: {fileID: 11400000, guid: ebf8dcccb588c184cb61801814459c5c, type: 2}
+    AssetName: 4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11_01
+    Index: 30
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 84.46667
+    DurationTime: 4.24028
+    EndTime: 88.70695
+    CameraAsset: {fileID: 11400000, guid: 27d40f5d153defe4eb30d5d9ae3f7ea7, type: 2}
+    AssetName: 4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11_02
+    Index: 31
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 88.70695
+    DurationTime: 5.7597175
+    EndTime: 94.46667
+    CameraAsset: {fileID: 11400000, guid: e64dfb44a1f72a24f97914340a5c7b75, type: 2}
+    AssetName: jump_fly
+    Index: 32
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 94.46667
+    DurationTime: 1.9802017
+    EndTime: 96.44687
+    CameraAsset: {fileID: 11400000, guid: ebf8dcccb588c184cb61801814459c5c, type: 2}
+    AssetName: 4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11_01
+    Index: 33
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 94.46667
+    DurationTime: 3.9603958
+    EndTime: 98.42706
+    CameraAsset: {fileID: 11400000, guid: 27d40f5d153defe4eb30d5d9ae3f7ea7, type: 2}
+    AssetName: 4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11_02
+    Index: 34
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 98.42706
+    DurationTime: 6.039604
+    EndTime: 104.46667
+    CameraAsset: {fileID: 11400000, guid: e64dfb44a1f72a24f97914340a5c7b75, type: 2}
+    AssetName: jump_fly
+    Index: 35
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 104.466675
+    DurationTime: 1.4157715
+    EndTime: 105.88245
+    CameraAsset: {fileID: 11400000, guid: 29ca63cef897a6748bab4d9eeef44b58, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_01
+    Index: 36
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 104.466675
+    DurationTime: 2.5754395
+    EndTime: 107.042114
+    CameraAsset: {fileID: 11400000, guid: bf031cedf232fe442837396cc7149794, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_02
+    Index: 37
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 107.042114
+    DurationTime: 1.6817856
+    EndTime: 108.7239
+    CameraAsset: {fileID: 11400000, guid: 9e1d07fd4bfbf8140b37396ac7a43d61, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_03
+    Index: 38
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 108.7239
+    DurationTime: 2.1585464
+    EndTime: 110.88245
+    CameraAsset: {fileID: 11400000, guid: 62422ab7d2221be478cc355e72f53e68, type: 2}
+    AssetName: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_04
+    Index: 39
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 110.88245
+    DurationTime: 3.5842292
+    EndTime: 114.466675
+    CameraAsset: {fileID: 11400000, guid: e64dfb44a1f72a24f97914340a5c7b75, type: 2}
+    AssetName: jump_fly
+    Index: 40
+    Pos: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+    TargetTransform: {fileID: 0}
+    Name: 
+  - StartTime: 114.466675
+    DurationTime: 14.666667
+    EndTime: 129.13335
+    CameraAsset: {fileID: 11400000, guid: 39678cbf3a7a02441819a202a900fd5b, type: 2}
+    AssetName: link_art_end
+    Index: 41
+    Pos: {x: 1.37, y: 0, z: -11.06}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    TargetTransform: {fileID: 0}
+    Name: 
+  RuntimeCameraModuleInfoList:
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_rocker_11_71
+    - 1000_6_twizzle_71_71
+    - 1000_6_rocker_71_11
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_counter_11_31
+    - 1000_6_double3turn_31_71
+    - 1000_6_twizzle_71_71
+    - 1000_7_crossover_71_72
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_counter_11_31
+    - 1000_6_double3turn_31_71
+    - 1000_6_twizzle_71_71
+    - 1000_7_crossover_71_72
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_counter_11_31
+    - 1000_6_double3turn_31_71
+    - 1000_6_twizzle_71_71
+    - 1000_7_crossover_71_72
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_counter_11_31
+    - 1000_6_double3turn_31_71
+    - 1000_6_twizzle_71_71
+    - 1000_7_crossover_71_72
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_choctaws_11_42
+    - 1000_6_double3turn_42_82
+    - 1000_7_crossover_82_71
+    - 1000_6_rocker_71_11
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_rocker_11_71
+    - 1000_6_twizzle_71_71
+    - 1000_6_rocker_71_11
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_3turn_11_81
+    - 1000_7_crossover_81_72
+    - 1000_6_twizzle_72_72
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_3turn_11_81
+    - 1000_7_crossover_81_72
+    - 1000_6_twizzle_72_72
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_3turn_11_81
+    - 1000_7_crossover_81_72
+    - 1000_6_twizzle_72_72
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72.asset
+  EditorCameraModuleInfoList:
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_7_crossover_11_22
+    - 1000_6_3turn_22_72
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/4-721000_6_choctaws_82_11-1000_7_crossover_11_22-1000_6_3turn_22_72.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_3turn_11_81
+    - 1000_7_crossover_81_72
+    - 1000_6_twizzle_72_72
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_rocker_11_71
+    - 1000_6_twizzle_71_71
+    - 1000_6_rocker_71_11
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_7_crossover_11_22
+    - 1000_6_3turn_22_72
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/4-721000_6_choctaws_82_11-1000_7_crossover_11_22-1000_6_3turn_22_72.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_3turn_11_81
+    - 1000_7_crossover_81_72
+    - 1000_6_twizzle_72_72
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_loop_11_51
+    - 1000_7_crossover_51_11
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_loop_11_51
+    - 1000_7_crossover_51_11
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_loop_11_51
+    - 1000_7_crossover_51_11
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_loop_11_51
+    - 1000_7_crossover_51_11
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11.asset
+  - AnimationKeyList:
+    - 1000_6_choctaws_82_11
+    - 1000_6_3turn_11_81
+    - 1000_7_crossover_81_72
+    - 1000_6_twizzle_72_72
+    CameraKey: Assets/ArtRes/art_online/battle/camera/step_camera/group_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72.asset

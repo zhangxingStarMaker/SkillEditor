@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede9075ccdd94cd9addb51f370b4e844, type: 3}
+  m_Name: 7-721000_7_crossover_72_71-1000_6_twizzle_71_71-1000_6_counter_71_11-1000_6_mohawk_11_32-1000_7_crossover_32_72
+  m_EditorClassIdentifier: 
+  CameraGroupItemAssetList:
+  - CameraAsset: {fileID: 11400000, guid: c5c36feb255277047bf4ebcb273afffa, type: 2}
+    StartTime: 0
+    EndTime: 2.0833332538604736
+  - CameraAsset: {fileID: 11400000, guid: 87c6ef9c9d6aad1489535d80c8b6edf8, type: 2}
+    StartTime: 0.9166666865348816
+    EndTime: 5.128095149993898
+  - CameraAsset: {fileID: 11400000, guid: c9f554ca45561fe4ba763a5a99794a37, type: 2}
+    StartTime: 3.0833333333333335
+    EndTime: 6.933333277701
+  StartTime: 0
+  EndTime: 5.5329999923706055

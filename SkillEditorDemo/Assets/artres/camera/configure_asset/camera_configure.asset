@@ -1,0 +1,368 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f310d4a2b7584660a8e057a5a6407f56, type: 3}
+  m_Name: camera_configure
+  m_EditorClassIdentifier: 
+  CameraRuleAssetList:
+  - ParamDesc: "\u8854\u63A5\u52A8\u753B\u4F7F\u7528\u4E24\u4E2Agroup\u7684\u65F6\u95F4\u5206\u754C\u7EBF"
+    ParamName: LinkBelongTwo
+    ParamValue: 120
+  - ParamDesc: "\u8DF3\u8DC3\u7528\u5203X"
+    ParamName: JumpEdgeParamX
+    ParamValue: 0.5
+  - ParamDesc: "\u8DF3\u8DC3\u7528\u5203Y"
+    ParamName: JumpEdgeParamY
+    ParamValue: 0.4
+  - ParamDesc: "\u6B63\u5E38\u8DF3\u8DC3X"
+    ParamName: JumpNormalParamX
+    ParamValue: 0.4
+  - ParamDesc: "\u6B63\u5E38\u8DF3\u8DC3Y"
+    ParamName: JumpNormalParamY
+    ParamValue: 0.3
+  CameraPathAssetList:
+  - ID: 1
+    CameraAssetPath: art_online/battle/camera/preset_asset/camera_base.asset
+  - ID: 2
+    CameraAssetPath: art_online/battle/camera/preset_asset/jump_fly.asset
+  - ID: 3
+    CameraAssetPath: art_online/battle/camera/preset_asset/jump_foot.asset
+  - ID: 4
+    CameraAssetPath: art_online/battle/camera/preset_asset/link_1.asset
+  - ID: 5
+    CameraAssetPath: art_online/battle/camera/preset_asset/link_all_half_1.asset
+  - ID: 6
+    CameraAssetPath: art_online/battle/camera/preset_asset/link_all_half_new.asset
+  - ID: 7
+    CameraAssetPath: art_online/battle/camera/preset_asset/link_ice.asset
+  - ID: 8
+    CameraAssetPath: art_online/battle/camera/preset_asset/link_1.asset
+  - ID: 9
+    CameraAssetPath: art_online/battle/camera/preset_asset/jump_foot_false.asset
+  - ID: 10
+    CameraAssetPath: art_online/battle/camera/preset_asset/camera_fall.asset
+  CameraGroupAssetList:
+  - CameraGroupId: 1
+    TagId: 1
+    RuleId: 1
+    CameraAssetPathItemList: []
+    CameraFixTimeList: []
+  - CameraGroupId: 2
+    TagId: 2
+    RuleId: 1
+    CameraAssetPathItemList: []
+    CameraFixTimeList: []
+  - CameraGroupId: 3
+    TagId: 3
+    RuleId: 1
+    CameraAssetPathItemList: []
+    CameraFixTimeList: []
+  - CameraGroupId: 4
+    TagId: 4
+    RuleId: 1
+    CameraAssetPathItemList: []
+    CameraFixTimeList: []
+  - CameraGroupId: 5
+    TagId: 5
+    RuleId: 1
+    CameraAssetPathItemList: []
+    CameraFixTimeList: []
+  - CameraGroupId: 6
+    TagId: 6
+    RuleId: 1
+    CameraAssetPathItemList: []
+    CameraFixTimeList: []
+  - CameraGroupId: 7
+    TagId: 7
+    RuleId: 1
+    CameraAssetPathItemList: []
+    CameraFixTimeList: []
+  - CameraGroupId: 8
+    TagId: 8
+    RuleId: 1
+    CameraAssetPathItemList: []
+    CameraFixTimeList: []
+  - CameraGroupId: 9
+    TagId: 9
+    RuleId: 1
+    CameraAssetPathItemList: []
+    CameraFixTimeList: []
+  - CameraGroupId: 10
+    TagId: 2
+    RuleId: 2
+    CameraAssetPathItemList: []
+    CameraFixTimeList: []
+  JumpNormalPreCameraGroupList:
+  - CameraGroupId: 0
+    TagId: 0
+    RuleId: 0
+    CameraAssetPathItemList:
+    - art_online/battle/camera/preset_asset/jump_foot.asset
+    CameraFixTimeList: []
+  JumpNormalAirCameraGroupList:
+  - CameraGroupId: 0
+    TagId: 0
+    RuleId: 0
+    CameraAssetPathItemList:
+    - art_online/battle/camera/preset_asset/jump_fly.asset
+    CameraFixTimeList: []
+  JumpBladePreCameraGroupList:
+  - CameraGroupId: 0
+    TagId: 0
+    RuleId: 0
+    CameraAssetPathItemList:
+    - art_online/battle/camera/preset_asset/jump_foot_false.asset
+    CameraFixTimeList: []
+  JumpBladeAirCameraGroupList:
+  - CameraGroupId: 0
+    TagId: 0
+    RuleId: 0
+    CameraAssetPathItemList:
+    - art_online/battle/camera/preset_asset/jump_fly.asset
+    CameraFixTimeList: []
+  JumpNormalMarkCameraGroupList:
+  - CameraGroupId: 0
+    TagId: 0
+    RuleId: 0
+    CameraAssetPathItemList:
+    - Assets/ArtRes/art_online/battle/camera/preset_asset/link_1_0920.asset
+    CameraFixTimeList: []
+  JumpNormalFallCameraGroupList:
+  - CameraGroupId: 0
+    TagId: 0
+    RuleId: 0
+    CameraAssetPathItemList:
+    - art_online/battle/camera/preset_asset/camera_fall.asset
+    CameraFixTimeList: []
+  RotationCameraGroupList:
+  - CameraGroupId: 0
+    TagId: 0
+    RuleId: 0
+    CameraAssetPathItemList:
+    - art_online/battle/camera/preset_asset/jump_circle.asset
+    CameraFixTimeList: []
+  CameraGroupInfoList:
+  - AssetName: art_online/battle/camera/step_camera/group_asset/8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_01.asset
+      StartTime: 0
+      EndTime: 1.45
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_02.asset
+      StartTime: 0
+      EndTime: 2.6808333
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_03.asset
+      StartTime: 2.6808333
+      EndTime: 6.9666667
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_04.asset
+      StartTime: 3.9333334
+      EndTime: 8.019167
+  - AssetName: art_online/battle/camera/step_camera/group_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_01.asset
+      StartTime: 0
+      EndTime: 1.8166667
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_02.asset
+      StartTime: 0.9
+      EndTime: 2.3951585
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_03.asset
+      StartTime: 2.3951583
+      EndTime: 4.55
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_04.asset
+      StartTime: 3.2833333
+      EndTime: 5.9666667
+  - AssetName: art_online/battle/camera/step_camera/group_asset/6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_01.asset
+      StartTime: 0
+      EndTime: 5.4333334
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_02.asset
+      StartTime: 1.45
+      EndTime: 6.066667
+  - AssetName: art_online/battle/camera/step_camera/group_asset/4-721000_6_choctaws_82_11-1000_7_crossover_11_22-1000_6_3turn_22_72.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4-721000_6_choctaws_82_11-1000_7_crossover_11_22-1000_6_3turn_22_72_01.asset
+      StartTime: 0
+      EndTime: 2
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4-721000_6_choctaws_82_11-1000_7_crossover_11_22-1000_6_3turn_22_72_02.asset
+      StartTime: 0.76666665
+      EndTime: 3.8666668
+  - AssetName: art_online/battle/camera/step_camera/group_asset/4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11_01.asset
+      StartTime: 0
+      EndTime: 2
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11_02.asset
+      StartTime: 0.41666666
+      EndTime: 4
+  - AssetName: art_online/battle/camera/step_camera/group_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_01.asset
+      StartTime: 0
+      EndTime: 1.45
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_02.asset
+      StartTime: 0
+      EndTime: 2.7166667
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_03.asset
+      StartTime: 2.7166667
+      EndTime: 4.8599997
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_04.asset
+      StartTime: 4.8599997
+      EndTime: 8
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_05.asset
+      StartTime: 6.2166667
+      EndTime: 8
+  - AssetName: art_online/battle/camera/step_camera/group_asset/5-111000_6_choctaws_82_11-1000_6_3turn_11_81-1000_6_rocker_81_21-1000_7_crossover_21_11.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5-111000_6_choctaws_82_11-1000_6_3turn_11_81-1000_6_rocker_81_21-1000_7_crossover_21_11_01.asset
+      StartTime: 0
+      EndTime: 1.85
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5-111000_6_choctaws_82_11-1000_6_3turn_11_81-1000_6_rocker_81_21-1000_7_crossover_21_11_02.asset
+      StartTime: 0.5833333
+      EndTime: 4.1666665
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5-111000_6_choctaws_82_11-1000_6_3turn_11_81-1000_6_rocker_81_21-1000_7_crossover_21_11_03.asset
+      StartTime: 2.2825453
+      EndTime: 4.933334
+  - AssetName: art_online/battle/camera/step_camera/group_asset/7-721000_7_crossover_72_71-1000_6_twizzle_71_71-1000_6_counter_71_11-1000_6_mohawk_11_32-1000_7_crossover_32_72.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7-721000_7_crossover_72_71-1000_6_twizzle_71_71-1000_6_counter_71_11-1000_6_mohawk_11_32-1000_7_crossover_32_72_01.asset
+      StartTime: 0
+      EndTime: 2.0833333
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7-721000_7_crossover_72_71-1000_6_twizzle_71_71-1000_6_counter_71_11-1000_6_mohawk_11_32-1000_7_crossover_32_72_02.asset
+      StartTime: 0.9166667
+      EndTime: 5.128095
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7-721000_7_crossover_72_71-1000_6_twizzle_71_71-1000_6_counter_71_11-1000_6_mohawk_11_32-1000_7_crossover_32_72_03.asset
+      StartTime: 3.0833333
+      EndTime: 6.9333334
+  - AssetName: art_online/battle/camera/step_camera/group_asset/7-111000_7_crossover_72_81-1000_6_choctaws_81_12-1000_6_mohawk_12_31-1000_6_loop_31_71-1000_6_counter_71_11.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7-111000_7_crossover_72_81-1000_6_choctaws_81_12-1000_6_mohawk_12_31-1000_6_loop_31_71-1000_6_counter_71_11_01.asset
+      StartTime: 0
+      EndTime: 2.53365
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7-111000_7_crossover_72_81-1000_6_choctaws_81_12-1000_6_mohawk_12_31-1000_6_loop_31_71-1000_6_counter_71_11_02.asset
+      StartTime: 0.46666667
+      EndTime: 5.8074102
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7-111000_7_crossover_72_81-1000_6_choctaws_81_12-1000_6_mohawk_12_31-1000_6_loop_31_71-1000_6_counter_71_11_03.asset
+      StartTime: 3.6666665
+      EndTime: 7.033334
+  - AssetName: art_online/battle/camera/step_camera/group_asset/4.5-721000_7_crossover_72_71-1000_6_counter_71_11-1000_6_twizzle_11_72.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4.5-721000_7_crossover_72_71-1000_6_counter_71_11-1000_6_twizzle_11_72_01.asset
+      StartTime: 0
+      EndTime: 1.3
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4.5-721000_7_crossover_72_71-1000_6_counter_71_11-1000_6_twizzle_11_72_02.asset
+      StartTime: 0.38333333
+      EndTime: 3.7833333
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4.5-721000_7_crossover_72_71-1000_6_counter_71_11-1000_6_twizzle_11_72_03.asset
+      StartTime: 1.9166666
+      EndTime: 4.433334
+  - AssetName: art_online/battle/camera/step_camera/group_asset/4.5-111000_7_crossover_72_71-1000_6_twizzle_71_71-1000_6_counter_71_11.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4.5-111000_7_crossover_72_71-1000_6_twizzle_71_71-1000_6_counter_71_11_01.asset
+      StartTime: 0
+      EndTime: 1.6
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4.5-111000_7_crossover_72_71-1000_6_twizzle_71_71-1000_6_counter_71_11_02.asset
+      StartTime: 0.2
+      EndTime: 3.2649257
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4.5-111000_7_crossover_72_71-1000_6_twizzle_71_71-1000_6_counter_71_11_03.asset
+      StartTime: 2.1666667
+      EndTime: 4.466667
+  - AssetName: art_online/battle/camera/step_camera/group_asset/5.5-721000_7_crossover_72_71-1000_6_rocker_71_11-1000_6_mohawk_11_32-1000_6_loop_32_72.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5.5-721000_7_crossover_72_71-1000_6_rocker_71_11-1000_6_mohawk_11_32-1000_6_loop_32_72_01.asset
+      StartTime: 0
+      EndTime: 1.8166667
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5.5-721000_7_crossover_72_71-1000_6_rocker_71_11-1000_6_mohawk_11_32-1000_6_loop_32_72_02.asset
+      StartTime: 0.23333333
+      EndTime: 3.7666667
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5.5-721000_7_crossover_72_71-1000_6_rocker_71_11-1000_6_mohawk_11_32-1000_6_loop_32_72_03.asset
+      StartTime: 2.5833333
+      EndTime: 5.8000007
+  - AssetName: art_online/battle/camera/step_camera/group_asset/5.5-111000_7_crossover_72_71-1000_6_rocker_71_11-1000_6_loop_11_51-1000_7_crossover_51_11.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5.5-111000_7_crossover_72_71-1000_6_rocker_71_11-1000_6_loop_11_51-1000_7_crossover_51_11_01.asset
+      StartTime: 0
+      EndTime: 2.0166667
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5.5-111000_7_crossover_72_71-1000_6_rocker_71_11-1000_6_loop_11_51-1000_7_crossover_51_11_02.asset
+      StartTime: 0.4
+      EndTime: 4.7166667
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5.5-111000_7_crossover_72_71-1000_6_rocker_71_11-1000_6_loop_11_51-1000_7_crossover_51_11_03.asset
+      StartTime: 2.3833332
+      EndTime: 5.766667
+  - AssetName: art_online/battle/camera/step_camera/group_asset/6.5-721000_6_choctaws_82_11-1000_7_crossover_11_21-1000_6_mohawk_21_82-1000_6_bracket_82_12-1000_6_rocker_12_72.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6.5-721000_6_choctaws_82_11-1000_7_crossover_11_21-1000_6_mohawk_21_82-1000_6_bracket_82_12-1000_6_rocker_12_72_01.asset
+      StartTime: 0
+      EndTime: 1.3333334
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6.5-721000_6_choctaws_82_11-1000_7_crossover_11_21-1000_6_mohawk_21_82-1000_6_bracket_82_12-1000_6_rocker_12_72_02.asset
+      StartTime: 0.33333334
+      EndTime: 2.321692
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6.5-721000_6_choctaws_82_11-1000_7_crossover_11_21-1000_6_mohawk_21_82-1000_6_bracket_82_12-1000_6_rocker_12_72_03.asset
+      StartTime: 2.321692
+      EndTime: 6.2166667
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6.5-721000_6_choctaws_82_11-1000_7_crossover_11_21-1000_6_mohawk_21_82-1000_6_bracket_82_12-1000_6_rocker_12_72_04.asset
+      StartTime: 3.6166666
+      EndTime: 6.6333337
+  - AssetName: art_online/battle/camera/step_camera/group_asset/6.5-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_bracket_71_21-1000_6_3turn_21_71-1000_6_counter_71_11.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6.5-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_bracket_71_21-1000_6_3turn_21_71-1000_6_counter_71_11_01.asset
+      StartTime: 0
+      EndTime: 1.5833334
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6.5-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_bracket_71_21-1000_6_3turn_21_71-1000_6_counter_71_11_02.asset
+      StartTime: 0.33333334
+      EndTime: 2.789761
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6.5-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_bracket_71_21-1000_6_3turn_21_71-1000_6_counter_71_11_03.asset
+      StartTime: 2.789761
+      EndTime: 6.2
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6.5-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_bracket_71_21-1000_6_3turn_21_71-1000_6_counter_71_11_04.asset
+      StartTime: 4.1727276
+      EndTime: 6.583333
+  - AssetName: art_online/battle/camera/step_camera/group_asset/7.5-721000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_22-1000_6_3turn_22_72-1000_6_twizzle_72_72.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7.5-721000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_22-1000_6_3turn_22_72-1000_6_twizzle_72_72_01.asset
+      StartTime: 0
+      EndTime: 1.45
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7.5-721000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_22-1000_6_3turn_22_72-1000_6_twizzle_72_72_02.asset
+      StartTime: 0.46666667
+      EndTime: 2.6909912
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7.5-721000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_22-1000_6_3turn_22_72-1000_6_twizzle_72_72_03.asset
+      StartTime: 2.6909912
+      EndTime: 7.1833334
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7.5-721000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_22-1000_6_3turn_22_72-1000_6_twizzle_72_72_04.asset
+      StartTime: 3.65
+      EndTime: 7.4000006
+  - AssetName: art_online/battle/camera/step_camera/group_asset/7.5-111000_7_crossover_72_71-1000_6_counter_71_11-1000_6_counter_11_31-1000_6_loop_31_71-1000_6_rocker_71_11.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7.5-111000_7_crossover_72_71-1000_6_counter_71_11-1000_6_counter_11_31-1000_6_loop_31_71-1000_6_rocker_71_11_01.asset
+      StartTime: 0
+      EndTime: 1.75
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7.5-111000_7_crossover_72_71-1000_6_counter_71_11-1000_6_counter_11_31-1000_6_loop_31_71-1000_6_rocker_71_11_02.asset
+      StartTime: 0.35
+      EndTime: 1.75
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7.5-111000_7_crossover_72_71-1000_6_counter_71_11-1000_6_counter_11_31-1000_6_loop_31_71-1000_6_rocker_71_11_03.asset
+      StartTime: 1.75
+      EndTime: 5.9622574
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/7.5-111000_7_crossover_72_71-1000_6_counter_71_11-1000_6_counter_11_31-1000_6_loop_31_71-1000_6_rocker_71_11_04.asset
+      StartTime: 3.6166666
+      EndTime: 7.4333334
+  - AssetName: art_online/battle/camera/step_camera/group_asset/5-721000_7_crossover_82_81-1000_6_bracket_81_11-1000_6_twizzle_11_72.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5-721000_7_crossover_82_81-1000_6_bracket_81_11-1000_6_twizzle_11_72_01.asset
+      StartTime: 0
+      EndTime: 1.6866447
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5-721000_7_crossover_82_81-1000_6_bracket_81_11-1000_6_twizzle_11_72_02.asset
+      StartTime: 0
+      EndTime: 3.2760487
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5-721000_7_crossover_82_81-1000_6_bracket_81_11-1000_6_twizzle_11_72_03.asset
+      StartTime: 2.25
+      EndTime: 5.0166664
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/5-721000_7_crossover_82_81-1000_6_bracket_81_11-1000_6_twizzle_11_72_04.asset
+      StartTime: 3.2760487
+      EndTime: 5.033334

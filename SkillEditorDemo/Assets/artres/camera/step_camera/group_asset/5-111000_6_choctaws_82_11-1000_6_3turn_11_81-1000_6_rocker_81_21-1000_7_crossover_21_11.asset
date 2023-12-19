@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede9075ccdd94cd9addb51f370b4e844, type: 3}
+  m_Name: 5-111000_6_choctaws_82_11-1000_6_3turn_11_81-1000_6_rocker_81_21-1000_7_crossover_21_11
+  m_EditorClassIdentifier: 
+  CameraGroupItemAssetList:
+  - CameraAsset: {fileID: 11400000, guid: bffe05dfb21dca54e962a6c4b7d131e7, type: 2}
+    StartTime: 0
+    EndTime: 1.850000023841858
+  - CameraAsset: {fileID: 11400000, guid: 925b4f28159beb247ba9cb7d8c8ef626, type: 2}
+    StartTime: 0.5833333333333334
+    EndTime: 4.16666666666667
+  - CameraAsset: {fileID: 11400000, guid: 0bfed3ce2dc217a4f9294bf36f11a809, type: 2}
+    StartTime: 2.282545328140259
+    EndTime: 4.93333375453949
+  StartTime: 0
+  EndTime: 5.5329999923706055

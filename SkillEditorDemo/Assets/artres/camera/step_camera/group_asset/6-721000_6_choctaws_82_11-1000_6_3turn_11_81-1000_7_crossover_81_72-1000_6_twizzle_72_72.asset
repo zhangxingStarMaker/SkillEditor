@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede9075ccdd94cd9addb51f370b4e844, type: 3}
+  m_Name: 6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72
+  m_EditorClassIdentifier: 
+  CameraGroupItemAssetList:
+  - CameraAsset: {fileID: 11400000, guid: 368b520f198fb434888fe6a21c68c765, type: 2}
+    StartTime: 0
+    EndTime: 1.816666692495346
+  - CameraAsset: {fileID: 11400000, guid: 9b72db55fc78a644681c3e5f619a589d, type: 2}
+    StartTime: 0.8999999761581421
+    EndTime: 2.3951584100723275
+  - CameraAsset: {fileID: 11400000, guid: 0fbe2b682f131e6418329f40c24fbc40, type: 2}
+    StartTime: 2.3951584100723267
+    EndTime: 4.55
+  - CameraAsset: {fileID: 11400000, guid: 38b0ed19589edf7479e3ca053ee1a2b8, type: 2}
+    StartTime: 3.283333333333333
+    EndTime: 5.966666936873
+  StartTime: 0
+  EndTime: 0

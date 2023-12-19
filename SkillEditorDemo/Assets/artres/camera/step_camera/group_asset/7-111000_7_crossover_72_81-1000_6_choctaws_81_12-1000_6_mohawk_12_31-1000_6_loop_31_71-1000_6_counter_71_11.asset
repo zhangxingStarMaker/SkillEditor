@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede9075ccdd94cd9addb51f370b4e844, type: 3}
+  m_Name: 7-111000_7_crossover_72_81-1000_6_choctaws_81_12-1000_6_mohawk_12_31-1000_6_loop_31_71-1000_6_counter_71_11
+  m_EditorClassIdentifier: 
+  CameraGroupItemAssetList:
+  - CameraAsset: {fileID: 11400000, guid: 8080d85a34aaecf4e8eb5e8ff7c7f619, type: 2}
+    StartTime: 0
+    EndTime: 2.5336498737335207
+  - CameraAsset: {fileID: 11400000, guid: 90cc7a9521dacb14089bb0b458458d14, type: 2}
+    StartTime: 0.4666666666666667
+    EndTime: 5.807410230052968
+  - CameraAsset: {fileID: 11400000, guid: a318a91070fc0f146998e7a9ca467dbb, type: 2}
+    StartTime: 3.666666626930237
+    EndTime: 7.033334016799927
+  StartTime: 0
+  EndTime: 0

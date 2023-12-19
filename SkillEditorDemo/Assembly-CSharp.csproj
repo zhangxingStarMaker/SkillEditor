@@ -191,10 +191,14 @@
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\InputAsset\Runtime" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraEntity\MarkEntity" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\3rdPersonWithAimMode" />
+     <Folder Include="Assets\artres\camera\configure_asset" />
      <Folder Include="Assets\artres\actor\player\001\models\textures" />
+     <Folder Include="Assets\artres\camera\step_camera\preset_asset" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Impulse" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\FrameWork" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraAsset" />
+     <Folder Include="Assets\artres\camera\camera_clip" />
+     <Folder Include="Assets\artres\camera\cinemachine_camera" />
      <Folder Include="Assets\artres\actor\player\001\ani" />
      <Folder Include="Assets\artres\actor\player\001\ani\weapon" />
      <Folder Include="Assets\artres\actor\player\001\models\ani" />
@@ -203,15 +207,18 @@
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Models" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Animation" />
+     <Folder Include="Assets\artres\camera\group_asset" />
      <None Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\FadeOutNearbyObjects\FadeOut.shader" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Materials" />
      <Folder Include="Assets\Scripts\Runtime\Framework\CoreLogic\Lifestyle" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraControl" />
+     <Folder Include="Assets\artres\camera\camera_group" />
      <Folder Include="Assets\artres\actor\player\001\atk" />
      <Folder Include="Assets\Scripts\Runtime\Framework\FrameUtility" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Tracked Dolly" />
+     <Folder Include="Assets\artres\camera\step_camera\preset_prefab" />
      <Folder Include="Assets\Samples\Cinemachine" />
      <Folder Include="Assets\Scripts\Runtime" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Scripts" />
@@ -224,6 +231,7 @@
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\ClearShot" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\FadeOutNearbyObjects" />
      <Folder Include="Assets\Scripts" />
+     <Folder Include="Assets\artres\camera" />
      <Folder Include="Assets\Scripts\Runtime\Framework\CoreLogic\CoreEntity" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\CollisionAsset" />
@@ -231,6 +239,7 @@
      <None Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Anywhere Door\ScreenCutoutShader.shader" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Textures" />
      <Folder Include="Assets\Scripts\Runtime\Framework\CoreLogic" />
+     <Folder Include="Assets\artres\camera\preset_asset" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\ShockAsset" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraUtility" />
      <Folder Include="Assets\artres\actor" />
@@ -254,6 +263,7 @@
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\CollisionAsset\Runtime" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\common" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\FrameWork\CameraComponent" />
+     <Folder Include="Assets\artres\camera\step_camera" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Animations" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\InputAsset" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\PauseFrameAsset" />
@@ -265,6 +275,7 @@
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\CameraMagnets" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\PauseFrameAsset\Runtime" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Timeline" />
+     <Folder Include="Assets\artres\camera\step_camera\group_asset" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraRoot" />
      <Folder Include="Assets\artres\actor\player\001\models\materials" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Anywhere Door" />
@@ -278,6 +289,7 @@
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Trigger volumes" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared" />
+     <Folder Include="Assets\artres\camera\camera_preset" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Transposer" />
      <Reference Include="UnityEngine">
      <HintPath>E:\Bilibili\Unity\2022.3.8f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b56c0cb98baa4587865c63d6e984eec4, type: 3}
+  m_Name: link_art_replay2_end2
+  m_EditorClassIdentifier: 
+  CurCameraType: 1
+  VirtualCamera: {fileID: 6358305403820401589, guid: 711ada9d7a500dc41ade2fe82a34bf0d, type: 3}
+  CameraFollowMarks: []
+  CameraLookMarks: []
+  AnimationClip:
+  - {fileID: 7400000, guid: 196201170f6919043a06acb80da3cee5, type: 2}
+  TransitionTime: 1

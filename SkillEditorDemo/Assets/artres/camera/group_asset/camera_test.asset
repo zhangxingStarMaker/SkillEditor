@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f310d4a2b7584660a8e057a5a6407f56, type: 3}
+  m_Name: camera_test
+  m_EditorClassIdentifier: 
+  CameraRuleAssetList: []
+  CameraPathAssetList: []
+  CameraGroupAssetList: []
+  JumpNormalTakeoffCameraGroupList: []
+  JumpNormalMarkCameraGroupList: []
+  JumpNormalFallCameraGroupList: []
+  RotationNormalCameraGroupList: []
+  CameraGroupInfoList:
+  - AssetName: art_online/battle/camera/step_camera/group_asset/4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11_01.asset
+      StartTime: 0
+      EndTime: 2
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4-111000_6_choctaws_82_11-1000_6_loop_11_51-1000_7_crossover_51_11_02.asset
+      StartTime: 0
+      EndTime: 4
+  - AssetName: art_online/battle/camera/step_camera/group_asset/4-721000_6_choctaws_82_11-1000_7_crossover_11_22-1000_6_3turn_22_72.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4-721000_6_choctaws_82_11-1000_7_crossover_11_22-1000_6_3turn_22_72_01.asset
+      StartTime: 0
+      EndTime: 2
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/4-721000_6_choctaws_82_11-1000_7_crossover_11_22-1000_6_3turn_22_72_02.asset
+      StartTime: 0
+      EndTime: 3.8666668
+  - AssetName: art_online/battle/camera/step_camera/group_asset/6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_01.asset
+      StartTime: 0
+      EndTime: 1.4
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_02.asset
+      StartTime: 0
+      EndTime: 2.7860808
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_03.asset
+      StartTime: 2.7860808
+      EndTime: 5.9166665
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-111000_6_choctaws_82_11-1000_6_rocker_11_71-1000_6_twizzle_71_71-1000_6_rocker_71_11_04.asset
+      StartTime: 3.4333334
+      EndTime: 6.066667
+  - AssetName: art_online/battle/camera/step_camera/group_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_01.asset
+      StartTime: 0
+      EndTime: 1.3166667
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_02.asset
+      StartTime: 0
+      EndTime: 2.3951583
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_03.asset
+      StartTime: 2.3951583
+      EndTime: 3.959218
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/6-721000_6_choctaws_82_11-1000_6_3turn_11_81-1000_7_crossover_81_72-1000_6_twizzle_72_72_04.asset
+      StartTime: 3.959218
+      EndTime: 5.9666667
+  - AssetName: art_online/battle/camera/step_camera/group_asset/8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_01.asset
+      StartTime: 0
+      EndTime: 1.45
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_02.asset
+      StartTime: 0
+      EndTime: 2.6808333
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_03.asset
+      StartTime: 2.6808333
+      EndTime: 4.7
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_04.asset
+      StartTime: 4.7
+      EndTime: 8
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-111000_6_choctaws_82_11-1000_6_choctaws_11_42-1000_6_double3turn_42_82-1000_7_crossover_82_71-1000_6_rocker_71_11_05.asset
+      StartTime: 6.3875003
+      EndTime: 8.019167
+  - AssetName: art_online/battle/camera/step_camera/group_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72.asset
+    CameraGroupItemList:
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_01.asset
+      StartTime: 0
+      EndTime: 1.45
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_02.asset
+      StartTime: 0
+      EndTime: 2.7166667
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_03.asset
+      StartTime: 2.7166667
+      EndTime: 4.8599997
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_04.asset
+      StartTime: 4.8599997
+      EndTime: 8
+    - AssetName: art_online/battle/camera/step_camera/preset_asset/8-721000_6_choctaws_82_11-1000_6_counter_11_31-1000_6_double3turn_31_71-1000_6_twizzle_71_71-1000_7_crossover_71_72_05.asset
+      StartTime: 6.2166667
+      EndTime: 8

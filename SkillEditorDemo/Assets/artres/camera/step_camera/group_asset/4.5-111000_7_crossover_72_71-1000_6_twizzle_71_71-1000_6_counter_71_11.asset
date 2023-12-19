@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede9075ccdd94cd9addb51f370b4e844, type: 3}
+  m_Name: 4.5-111000_7_crossover_72_71-1000_6_twizzle_71_71-1000_6_counter_71_11
+  m_EditorClassIdentifier: 
+  CameraGroupItemAssetList:
+  - CameraAsset: {fileID: 11400000, guid: 5823e2ffe3bbaa643a79c3f83b0c5b00, type: 2}
+    StartTime: 0
+    EndTime: 1.600000023841858
+  - CameraAsset: {fileID: 11400000, guid: 10b101361758ed3408f04e4d3f3cefa3, type: 2}
+    StartTime: 0.2
+    EndTime: 3.264925599098206
+  - CameraAsset: {fileID: 11400000, guid: 77a9c1c5c244bc649a339b111d5ab5c7, type: 2}
+    StartTime: 2.1666666666666665
+    EndTime: 4.466667056083679
+  StartTime: 0
+  EndTime: 0
