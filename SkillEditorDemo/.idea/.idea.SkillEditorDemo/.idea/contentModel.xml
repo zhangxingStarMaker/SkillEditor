@@ -4,6 +4,7 @@
     <e p="C:\Users\zhangxing03\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
     <e p="C:\Users\zhangxing03\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_SkillEditorDemo.1549716314.00" t="ExcludeRecursive" />
     <e p="D:\Bilibili\Project\Project_Skill\SkillEditor\SkillEditorDemo" t="IncludeRecursive">
+      <e p="AimingRig.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
@@ -81,6 +82,100 @@
             <e p="Readme.txt" t="Include" />
           </e>
         </e>
+        <e p="Samples" t="Include">
+          <e p="Cinemachine" t="Include">
+            <e p="2.8.9" t="Include">
+              <e p="Cinemachine Example Scenes" t="Include">
+                <e p="Scenes" t="Include">
+                  <e p="2D" t="Include">
+                    <e p="LoseSightWhenTargetsFallsOffThePlatform.cs" t="Include" />
+                    <e p="MouseScrollZoom2D.cs" t="Include" />
+                  </e>
+                  <e p="3rdPersonWithAimMode" t="Include">
+                    <e p="ActivateOnKeypress.cs" t="Include" />
+                  </e>
+                  <e p="AimingRig" t="Include">
+                    <e p="AimingRig.asmdef" t="Include" />
+                    <e p="AimReticle.cs" t="Include" />
+                  </e>
+                  <e p="Anywhere Door" t="Include">
+                    <e p="Materials" t="Include" />
+                    <e p="PlayerLookAt.cs" t="Include" />
+                    <e p="PlayerMovement.cs" t="Include" />
+                    <e p="ScreenCutoutShader.shader" t="Include" />
+                    <e p="TagChanger.cs" t="Include" />
+                  </e>
+                  <e p="BossCamera" t="Include">
+                    <e p="BossLookAt.cs" t="Include" />
+                    <e p="CustomLockCameraY.cs" t="Include" />
+                  </e>
+                  <e p="CameraMagnets" t="Include">
+                    <e p="CameraMagnetProperty.cs" t="Include" />
+                    <e p="CameraMagnetTargetController.cs" t="Include" />
+                  </e>
+                  <e p="ClearShot" t="Include" />
+                  <e p="Custom Blends" t="Include" />
+                  <e p="DualTarget" t="Include">
+                    <e p="MoveAimTarget.cs" t="Include" />
+                    <e p="PointAtAimTarget.cs" t="Include" />
+                  </e>
+                  <e p="FadeOutNearbyObjects" t="Include">
+                    <e p="CinemachineFadeOutNearbyObjects.cs" t="Include" />
+                    <e p="FadeOut.shader" t="Include" />
+                  </e>
+                  <e p="Impulse" t="Include" />
+                  <e p="Scripting" t="Include">
+                    <e p="ScriptingExample.cs" t="Include" />
+                  </e>
+                  <e p="timeline" t="Include" />
+                  <e p="Tracked Dolly" t="Include" />
+                  <e p="Transposer" t="Include" />
+                  <e p="Trigger volumes" t="Include">
+                    <e p="GenericTrigger.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="Animation" t="Include" />
+                  <e p="Blends" t="Include" />
+                  <e p="Materials" t="Include" />
+                  <e p="models" t="Include">
+                    <e p="UnityCharacter" t="Include">
+                      <e p="Animations" t="Include" />
+                      <e p="Controllers" t="Include" />
+                      <e p="models" t="Include">
+                        <e p="Materials" t="Include" />
+                        <e p="Textures" t="Include" />
+                      </e>
+                      <e p="Prefabs" t="Include" />
+                      <e p="Scripts" t="Include">
+                        <e p="CharacterMovement.cs" t="Include" />
+                        <e p="CharacterMovement2D.cs" t="Include" />
+                        <e p="CharacterMovementNoCamera.cs" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                  <e p="Prefabs" t="Include">
+                    <e p="FBX" t="Include" />
+                  </e>
+                  <e p="Scripts" t="Include">
+                    <e p="ActivateCameraWithDistance.cs" t="Include" />
+                    <e p="ActivateCamOnPlay.cs" t="Include" />
+                    <e p="ExampleHelpWindow.cs" t="Include" />
+                    <e p="InvokeEventFromInspector.cs" t="Include" />
+                    <e p="MixingCameraBlend.cs" t="Include" />
+                    <e p="PlayerMove.cs" t="Include" />
+                    <e p="PlayerMoveOnSphere.cs" t="Include" />
+                    <e p="PlayerMovePhysics.cs" t="Include" />
+                    <e p="SimpleElevator.cs" t="Include" />
+                    <e p="SpawnInCircle.cs" t="Include" />
+                    <e p="ThirdPersonFollowDistanceModifier.cs" t="Include" />
+                  </e>
+                  <e p="Textures" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
         <e p="Scenes" t="Include" />
         <e p="Scripts" t="Include">
           <e p="Editor" t="Include">
@@ -90,7 +185,7 @@
             <e p="Actor" t="Include" />
           </e>
           <e p="Runtime" t="Include">
-            <e p="ability" t="Include">
+            <e p="AbilityModule" t="Include">
               <e p="common" t="Include">
                 <e p="AbilityTrackEditor.cs" t="Include" />
                 <e p="AbilityTrackInspector.cs" t="Include" />
@@ -155,9 +250,228 @@
                 </e>
               </e>
             </e>
+            <e p="CameraModule" t="Include">
+              <e p="Editor" t="Include">
+                <e p="BattleCamera" t="Include">
+                  <e p="BattleEditorComponent.cs" t="Include" />
+                  <e p="StepCamera" t="Include">
+                    <e p="StepCameraEditorComponent.cs" t="Include" />
+                    <e p="timeline" t="Include">
+                      <e p="SteCameraClipEditor.cs" t="Include" />
+                      <e p="StepCameraAction.cs" t="Include" />
+                      <e p="StepCameraBehaviour.cs" t="Include" />
+                      <e p="StepCameraClip.cs" t="Include" />
+                      <e p="StepCameraClipEditor.cs" t="Include" />
+                      <e p="StepCameraMixBehaviour.cs" t="Include" />
+                      <e p="StepCameraTrack.cs" t="Include" />
+                      <e p="StepCameraTrackEditor.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="CameraEditorEntity.cs" t="Include" />
+                <e p="CameraEditorFacade.cs" t="Include" />
+                <e p="CameraGm" t="Include">
+                  <e p="CameraEditorGmComponent.cs" t="Include" />
+                </e>
+                <e p="CameraGroup" t="Include">
+                  <e p="CameraGroupAssetEditor.cs" t="Include" />
+                  <e p="CameraGroupAssetItemEditor.cs" t="Include" />
+                </e>
+                <e p="CameraPreview" t="Include">
+                  <e p="CameraPreviewBehaviour.cs" t="Include" />
+                  <e p="CameraPreviewClip.cs" t="Include" />
+                  <e p="CameraPreviewMixerBehaviour.cs" t="Include" />
+                  <e p="CameraPreviewTrack.cs" t="Include" />
+                  <e p="PreviewCameraEditorComponent.cs" t="Include" />
+                  <e p="PreviewCameraEditorManager.cs" t="Include" />
+                </e>
+                <e p="CameraUtility" t="Include">
+                  <e p="CameraEditorDebug.cs" t="Include" />
+                  <e p="CameraEditorDefine.cs" t="Include" />
+                </e>
+                <e p="ConfigureAsset" t="Include">
+                  <e p="CameraConfigureAssetEditor.cs" t="Include" />
+                </e>
+                <e p="FrameWork" t="Include">
+                  <e p="CameraEditorContext.cs" t="Include" />
+                  <e p="CameraEditorManager.cs" t="Include" />
+                  <e p="EditorComponent.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="CameraAsset" t="Include">
+                  <e p="CameraConfigure" t="Include">
+                    <e p="CameraConfigure.cs" t="Include" />
+                    <e p="CameraConfigureAsset.cs" t="Include" />
+                    <e p="CameraGroupConfigure.cs" t="Include" />
+                    <e p="CameraGroupInfo.cs" t="Include" />
+                    <e p="CameraGroupItemConfigure.cs" t="Include" />
+                    <e p="CameraGroupItemInfo.cs" t="Include" />
+                    <e p="CameraModuleInfo.cs" t="Include" />
+                    <e p="CameraPathConfigure.cs" t="Include" />
+                    <e p="CameraRuleConfigure.cs" t="Include" />
+                  </e>
+                  <e p="CameraGroup" t="Include">
+                    <e p="CameraGroupAsset.cs" t="Include" />
+                    <e p="CameraGroupItemAsset.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="CameraControl" t="Include">
+                  <e p="CameraControlEntityBase.cs" t="Include" />
+                  <e p="LinkCameraControlEntity.cs" t="Include" />
+                  <e p="SingleCameraControlEntity.cs" t="Include" />
+                </e>
+                <e p="CameraEntity" t="Include">
+                  <e p="CameraEntity" t="Include">
+                    <e p="ArtCameraEntity.cs" t="Include" />
+                    <e p="CameraEntity.cs" t="Include" />
+                    <e p="NormalCameraEntity.cs" t="Include" />
+                  </e>
+                  <e p="MarkEntity" t="Include">
+                    <e p="ActorMarkEntity.cs" t="Include" />
+                    <e p="MarkEntityBase.cs" t="Include" />
+                    <e p="PathMarkEntity.cs" t="Include" />
+                    <e p="WorldMarkEntity.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="CameraGm" t="Include">
+                  <e p="CameraGmAsset.cs" t="Include" />
+                  <e p="CameraGmComponent.cs" t="Include" />
+                </e>
+                <e p="CameraInfo" t="Include">
+                  <e p="CameraAsset.cs" t="Include" />
+                  <e p="CameraAssetInfo.cs" t="Include" />
+                  <e p="CameraData.cs" t="Include" />
+                  <e p="CameraMarkInfo.cs" t="Include" />
+                  <e p="CameraPrepareEntity.cs" t="Include" />
+                  <e p="DampingRecorderData.cs" t="Include" />
+                </e>
+                <e p="CameraRoot" t="Include">
+                  <e p="CameraRootNode.cs" t="Include" />
+                </e>
+                <e p="CameraUtility" t="Include">
+                  <e p="CameraConstDefines.cs" t="Include" />
+                  <e p="CameraDebugger.cs" t="Include" />
+                  <e p="CameraEnum.cs" t="Include" />
+                  <e p="CameraEnumDefines.cs" t="Include" />
+                </e>
+                <e p="FrameWork" t="Include">
+                  <e p="CameraComponent" t="Include">
+                    <e p="CameraAssetComponent.cs" t="Include" />
+                    <e p="CameraControlComponent" t="Include">
+                      <e p="ControlBaseComponent.cs" t="Include" />
+                      <e p="LinkCameraComponent.cs" t="Include" />
+                      <e p="SingleCameraComponent.cs" t="Include" />
+                    </e>
+                    <e p="CameraControlComponent.cs" t="Include" />
+                    <e p="CameraDataComponent.cs" t="Include" />
+                    <e p="CameraEntityComponent.cs" t="Include" />
+                    <e p="CameraPoolComponent.cs" t="Include" />
+                    <e p="CameraTransformComponent.cs" t="Include" />
+                  </e>
+                  <e p="CameraModuleEntity.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="FrameWork" t="Include">
+              <e p="CoreLogic" t="Include">
+                <e p="CoreEntity" t="Include">
+                  <e p="BaseAttribute.cs" t="Include" />
+                  <e p="CoreEntity.cs" t="Include" />
+                  <e p="DisposeObject.cs" t="Include" />
+                  <e p="LogicEntityCollector.cs" t="Include" />
+                  <e p="LogicScene.cs" t="Include" />
+                  <e p="SceneEntityFactory.cs" t="Include" />
+                  <e p="SceneHelper.cs" t="Include" />
+                </e>
+                <e p="ETTask" t="Include">
+                  <e p="AsyncETTaskCompletedMethodBuilder.cs" t="Include" />
+                  <e p="AsyncETTaskMethodBuilder.cs" t="Include" />
+                  <e p="AsyncETVoidMethodBuilder.cs" t="Include" />
+                  <e p="ETCancellationToken.cs" t="Include" />
+                  <e p="ETTask.asmdef" t="Include" />
+                  <e p="ETTask.cs" t="Include" />
+                  <e p="ETTaskCompleted.cs" t="Include" />
+                  <e p="EtTaskDebugger.cs" t="Include" />
+                  <e p="ETTaskHelper.cs" t="Include" />
+                  <e p="ETVoid.cs" t="Include" />
+                  <e p="IAwaiter.cs" t="Include" />
+                </e>
+                <e p="Lifestyle" t="Include">
+                  <e p="ExecuteQueueInfo.cs" t="Include" />
+                  <e p="ICoreEntityAddComponent.cs" t="Include" />
+                  <e p="ICoreEntityAwake.cs" t="Include" />
+                  <e p="ICoreEntityDestroy.cs" t="Include" />
+                  <e p="ICoreEntityGetComponent.cs" t="Include" />
+                  <e p="ICoreEntityGUI.cs" t="Include" />
+                  <e p="ICoreEntityLateUpdate.cs" t="Include" />
+                  <e p="ICoreEntityPreload.cs" t="Include" />
+                  <e p="ICoreEntitySort.cs" t="Include" />
+                  <e p="ICoreEntityUpdate.cs" t="Include" />
+                </e>
+                <e p="Singleton" t="Include">
+                  <e p="GameSingletonCenter.cs" t="Include" />
+                  <e p="IAllSingletonCreateComplete.cs" t="Include" />
+                  <e p="IdGenerator.cs" t="Include" />
+                  <e p="ISingletonAwake.cs" t="Include" />
+                  <e p="ISingletonLateUpdate.cs" t="Include" />
+                  <e p="ISingletonNotifyGameStart.cs" t="Include" />
+                  <e p="ISingletonOnGUI.cs" t="Include" />
+                  <e p="ISingletonUpdate.cs" t="Include" />
+                  <e p="Singleton.cs" t="Include" />
+                </e>
+              </e>
+              <e p="FrameUtility" t="Include">
+                <e p="ClassExt" t="Include">
+                  <e p="AnimationCurveEx.cs" t="Include" />
+                  <e p="ArrayEx.cs" t="Include" />
+                  <e p="ColorEx.cs" t="Include" />
+                  <e p="ComponentEx.cs" t="Include" />
+                  <e p="DictionaryEx.cs" t="Include" />
+                  <e p="GameObjectEx.cs" t="Include" />
+                  <e p="IEnumerableEx.cs" t="Include" />
+                  <e p="ListEx.cs" t="Include" />
+                  <e p="RectTransformEx.cs" t="Include" />
+                  <e p="ReflectEx.cs" t="Include" />
+                  <e p="RichTextEx.cs" t="Include" />
+                  <e p="TransformEx.cs" t="Include" />
+                  <e p="TypeEx.cs" t="Include" />
+                  <e p="Vector2IntExt.cs" t="Include" />
+                </e>
+                <e p="FrameworkEnum.cs" t="Include" />
+                <e p="FrameworkLog.cs" t="Include" />
+                <e p="PathDefine.cs" t="Include" />
+              </e>
+              <e p="ObjectPool" t="Include">
+                <e p="CommonObjectPool" t="Include">
+                  <e p="ActionObjectPool.cs" t="Include" />
+                  <e p="CommonObjectPool.asmdef" t="Include" />
+                  <e p="CommonObjectPool.cs" t="Include" />
+                  <e p="CsPoolEx" t="Include">
+                    <e p="CsObjPool.cs" t="Include" />
+                    <e p="PoolObjBase.cs" t="Include" />
+                  </e>
+                  <e p="DictionaryPool.cs" t="Include" />
+                  <e p="FlyweightPool.cs" t="Include" />
+                  <e p="HashPool.cs" t="Include" />
+                  <e p="HashSetPool.cs" t="Include" />
+                  <e p="IObjectPool.cs" t="Include" />
+                  <e p="LinkedListPool.cs" t="Include" />
+                  <e p="ListComponent.cs" t="Include" />
+                  <e p="ListPool.cs" t="Include" />
+                  <e p="ObjectPool.cs" t="Include" />
+                  <e p="PoolDebugger.cs" t="Include" />
+                  <e p="QueuePool.cs" t="Include" />
+                  <e p="StackPool.cs" t="Include" />
+                </e>
+                <e p="ObjectPool.cs" t="Include" />
+              </e>
+            </e>
           </e>
         </e>
       </e>
+      <e p="Module.CommonObjectPool.csproj" t="IncludeRecursive" />
+      <e p="Module.ETTask.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Sirenix.OdinInspector.CompatibilityLayer.csproj" t="IncludeRecursive" />
