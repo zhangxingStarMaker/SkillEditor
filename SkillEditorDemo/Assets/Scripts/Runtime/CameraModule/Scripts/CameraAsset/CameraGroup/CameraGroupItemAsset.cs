@@ -1,4 +1,4 @@
-﻿using Module.Battle.Camera;
+﻿using CameraModule.Runtime;
 using UnityEngine;
 
 namespace CameraModule.Runtime

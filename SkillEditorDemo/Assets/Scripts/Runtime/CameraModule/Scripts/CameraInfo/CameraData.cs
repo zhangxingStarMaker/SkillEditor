@@ -1,6 +1,5 @@
 ﻿using Module.ObjectPool;
 using UnityEngine;
-using CameraAsset = Module.Battle.Camera.CameraAsset;
 
 namespace CameraModule.Runtime
 {

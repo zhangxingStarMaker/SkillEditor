@@ -2,7 +2,7 @@
 using System;
 using CameraModule.Editor;
 using UnityEngine.Playables;
-namespace Module.Battle.Camera
+namespace CameraModule.Runtime
 {
     public class CameraPreviewMixerBehaviour : PlayableBehaviour
     {

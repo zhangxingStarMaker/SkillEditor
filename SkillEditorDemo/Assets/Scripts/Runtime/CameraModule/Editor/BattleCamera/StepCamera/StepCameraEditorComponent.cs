@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using CameraModule.Runtime;
-using Module.Battle.Camera;
+using CameraModule.Runtime;
 using Module.ConstDefine;
 using UnityEditor;
 using UnityEngine;

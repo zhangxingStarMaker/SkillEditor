@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using Module.Battle.Camera;
 using Module.FrameBase;
 using Module.GameCore;
 using Module.Utility;

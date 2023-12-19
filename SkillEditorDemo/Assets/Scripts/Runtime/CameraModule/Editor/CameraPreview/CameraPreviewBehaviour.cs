@@ -1,6 +1,6 @@
 ﻿#if UNITY_EDITOR
 using UnityEngine.Playables;
-namespace Module.Battle.Camera
+namespace CameraModule.Runtime
 {
     public class CameraPreviewBehaviour: PlayableBehaviour
     {

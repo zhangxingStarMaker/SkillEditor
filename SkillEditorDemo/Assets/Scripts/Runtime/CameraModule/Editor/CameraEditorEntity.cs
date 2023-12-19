@@ -1,6 +1,6 @@
 ﻿using CameraModule.Editor.BattleCamera;
 using CameraModule.Runtime;
-using Module.Battle.Camera;
+using CameraModule.Runtime;
 using Module.ConstDefine;
 using UnityEditor;
 using UnityEngine;

@@ -1,5 +1,5 @@
 ﻿using System;
-using Module.Battle.Camera;
+using CameraModule.Runtime;
 using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Module.Battle.Camera
+namespace CameraModule.Runtime
 {
     [CreateAssetMenu(fileName = "CameraAssetInfo", menuName = "camera/脚本相机列表", order = 0)]
     public class CameraAssetInfo: ScriptableObject

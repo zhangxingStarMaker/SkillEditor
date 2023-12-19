@@ -1,5 +1,5 @@
 ﻿using System;
-using Module.Battle.Camera;
+using CameraModule.Runtime;
 using Module.FrameBase;
 using Module.GameCore;
 using Module.ObjectPool;

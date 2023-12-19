@@ -3,7 +3,6 @@ using Module.GameCore;
 using Module.ObjectPool;
 using Module.Utility;
 using UnityEngine;
-using CameraType = Module.Battle.Camera.CameraType;
 
 namespace CameraModule.Runtime
 {

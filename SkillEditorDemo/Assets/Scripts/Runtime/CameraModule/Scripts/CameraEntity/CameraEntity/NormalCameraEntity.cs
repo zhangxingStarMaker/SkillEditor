@@ -1,6 +1,4 @@
 ﻿using System.Collections.Generic;
-using Module.Battle.Camera;
-using CameraType = Module.Battle.Camera.CameraType;
 
 namespace CameraModule.Runtime
 {

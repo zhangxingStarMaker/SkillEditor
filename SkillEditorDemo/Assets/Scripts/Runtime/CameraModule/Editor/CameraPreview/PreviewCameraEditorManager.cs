@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
-namespace Module.Battle.Camera
+namespace CameraModule.Runtime
 {
     public class PreviewCameraEditorManager:MonoBehaviour
     {

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
-using Module.Battle.Camera;
-using CameraType = Module.Battle.Camera.CameraType;
+using CameraModule.Runtime;
+using CameraType = CameraModule.Runtime.CameraType;
 
 
 namespace Module.Battle.Editor

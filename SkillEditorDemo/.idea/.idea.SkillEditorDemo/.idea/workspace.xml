@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7654bdc5-9bc6-4426-b57d-c1c37f5b03cd" name="Default Changelist" comment="" />
+    <list default="true" id="7654bdc5-9bc6-4426-b57d-c1c37f5b03cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/StepCamera/StepCameraEditorComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/StepCamera/StepCameraEditorComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/StepCamera/TimeLine/StepCameraClip.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/StepCamera/TimeLine/StepCameraClip.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/StepCamera/TimeLine/StepCameraClipEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/StepCamera/TimeLine/StepCameraClipEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraAsset/CameraAssetEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraAsset/CameraAssetEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraEditorEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraEditorEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/CameraPreviewBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/CameraPreviewBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/CameraPreviewClip.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/CameraPreviewClip.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/CameraPreviewMixerBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/CameraPreviewMixerBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/CameraPreviewTrack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/CameraPreviewTrack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/PreviewCameraEditorComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/PreviewCameraEditorComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/PreviewCameraEditorManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/PreviewCameraEditorManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/FrameWork/CameraEditorContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/FrameWork/CameraEditorContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraAsset/CameraGroup/CameraGroupItemAsset.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraAsset/CameraGroup/CameraGroupItemAsset.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/CameraEntity/ArtCameraEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/CameraEntity/ArtCameraEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/CameraEntity/CameraEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/CameraEntity/CameraEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/CameraEntity/NormalCameraEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/CameraEntity/NormalCameraEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/MarkEntity/ActorMarkEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/MarkEntity/ActorMarkEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/MarkEntity/PathMarkEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/MarkEntity/PathMarkEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/MarkEntity/WorldMarkEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/MarkEntity/WorldMarkEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraAsset.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraAsset.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraAssetInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraAssetInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraMarkInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraMarkInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraUtility/CameraEnum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraUtility/CameraEnum.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraAssetComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraAssetComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraControlComponent/LinkCameraComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraControlComponent/LinkCameraComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraControlComponent/SingleCameraComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraControlComponent/SingleCameraComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraDataComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraDataComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraEntityComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraEntityComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraPoolComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraPoolComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state.map" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/fullprofile.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.log.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Search/transactions.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Search/transactions.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,12 +60,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/ShockAsset/Runtime/AbilityShockBehaviour.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Runtime/AbilityPauseFrameTrack.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Runtime/AbilityPauseFrameAsset.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/ability/timeline/PauseFrameAsset/Runtime/AbilityPauseFrameBehaviour.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/FrameWork/CommonObjectPool.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/CameraModule/Scripts/CameraEntity/MarkEntity/MarkEntityBase.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CameraModule/Scripts/CameraEntity/MarkEntity/PathMarkEntity.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CameraModule/Scripts/CameraEntity/MarkEntity/WorldMarkEntity.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CameraModule/Scripts/CameraEntity/MarkEntity/ActorMarkEntity.cs" />
@@ -51,10 +90,8 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraModuleEntity.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraAssetComponent.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraUtility/CameraDebugger.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraData.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraPrepareEntity.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/DampingRecorderData.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/CameraEntity/CameraEntity.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/StepCamera/TimeLine/StepCameraMixBehaviour.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/StepCamera/TimeLine/StepCameraTrackEditor.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/StepCamera/StepCameraEditorComponent.cs" />
@@ -66,6 +103,14 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/FrameWork/CameraEditorContext.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/FrameWork/CameraEditorManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraEditorEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraAsset.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraControlComponent/SingleCameraComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/CameraEntity/ArtCameraEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/CameraEntity/CameraEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraEntity/CameraEntity/NormalCameraEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraUtility/CameraEnum.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraComponent/CameraDataComponent.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2Nj2EDmJL3fSZhj6XVwZHsvyxwE" />
@@ -128,7 +173,7 @@
       <workItem from="1680489275467" duration="15208000" />
       <workItem from="1693228446459" duration="3030000" />
       <workItem from="1702957070219" duration="5283000" />
-      <workItem from="1702971664441" duration="6931000" />
+      <workItem from="1702971664441" duration="8230000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,5 @@
 ﻿using Animancer;
 using UnityEngine;
-using CameraType = Module.Battle.Camera.CameraType;
 
 namespace CameraModule.Runtime
 {

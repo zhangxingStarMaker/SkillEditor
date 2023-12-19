@@ -1,4 +1,4 @@
-﻿namespace Module.Battle.Camera
+﻿namespace CameraModule.Runtime
 {
     public enum CameraPriority
     {

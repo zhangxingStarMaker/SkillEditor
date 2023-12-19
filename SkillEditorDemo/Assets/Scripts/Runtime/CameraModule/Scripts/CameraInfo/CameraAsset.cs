@@ -10,7 +10,7 @@ using UnityEngine;
 using System.Collections.Generic;
 
 
-namespace Module.Battle.Camera
+namespace CameraModule.Runtime
 {
     public enum CameraType
     {

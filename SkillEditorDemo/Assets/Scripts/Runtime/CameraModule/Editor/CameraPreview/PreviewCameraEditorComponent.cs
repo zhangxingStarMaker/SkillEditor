@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using CameraModule.Runtime;
-using Module.Battle.Camera;
+using CameraModule.Runtime;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Playables;

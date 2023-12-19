@@ -89,7 +89,7 @@ namespace CameraModule.Runtime
                     {
                         CameraModuleEntity.CameraPoolComponent.PrepareCameraData(cameraData);
                     }
-                    if (cameraData.CameraAsset.CurCameraType == Module.Battle.Camera.CameraType.AnimationCamera && cameraData.CameraAsset.TransitionTime > 0&&i > 0)
+                    if (cameraData.CameraAsset.CurCameraType == CameraModule.Runtime.CameraType.AnimationCamera && cameraData.CameraAsset.TransitionTime > 0&&i > 0)
                     {
                         _prepareCameraDataList[i - 1].DurationTime += cameraData.CameraAsset.TransitionTime;
                         _prepareCameraDataList[i - 1].RefreshData();

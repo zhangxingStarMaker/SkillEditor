@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
-namespace Module.Battle.Camera
+namespace CameraModule.Runtime
 {
     [TrackColor(0.8113f, 0.8301f, 0.6461f)]
     [TrackClipType(typeof(CameraPreviewClip))]

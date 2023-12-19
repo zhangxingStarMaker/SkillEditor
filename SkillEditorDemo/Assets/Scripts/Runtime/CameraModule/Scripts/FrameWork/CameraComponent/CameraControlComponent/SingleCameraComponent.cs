@@ -1,9 +1,7 @@
 ﻿using System;
 using Cinemachine;
-using Module.Battle.Camera;
 using Module.GameCore;
 using UnityEngine;
-using CameraType = Module.Battle.Camera.CameraType;
 
 namespace CameraModule.Runtime
 {

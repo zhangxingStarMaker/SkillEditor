@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using CameraModule.Runtime;
 using Cinemachine;
-using Module.Battle.Camera;
+using CameraModule.Runtime;
 using UnityEditor;
 using UnityEngine;
 

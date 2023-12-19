@@ -709,6 +709,9 @@
                     </e>
                   </e>
                 </e>
+                <e p="CameraAsset" t="Include">
+                  <e p="CameraAssetEditor.cs" t="Include" />
+                </e>
                 <e p="CameraEditorEntity.cs" t="Include" />
                 <e p="CameraEditorFacade.cs" t="Include" />
                 <e p="CameraGm" t="Include">

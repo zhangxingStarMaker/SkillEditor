@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Module.Battle.Camera;
+using CameraModule.Runtime;
 using Module.FrameBase;
 using Moudule.ETTaskCore;
 using UnityEngine;
