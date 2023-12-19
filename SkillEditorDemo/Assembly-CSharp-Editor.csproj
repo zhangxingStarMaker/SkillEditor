@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Editor\FrameWork\CameraEditorContext.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Editor\CameraUtility\CameraEditorDebug.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Editor\BattleCamera\StepCamera\TimeLine\StepCameraTrackEditor.cs" />
+     <Compile Include="Assets\Scripts\Runtime\CameraModule\Editor\CameraAsset\CameraAssetEditor.cs" />
      <Compile Include="Assets\Scripts\Runtime\AbilityModule\timeline\PauseFrameAsset\Editor\AbilityPauseFrameTrackEditor.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Editor\BattleCamera\BattleEditorComponent.cs" />
      <Compile Include="Assets\Scripts\Runtime\AbilityModule\timeline\InputAsset\Editor\AbilityInputTrackInspector.cs" />
@@ -95,6 +96,7 @@
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Editor\BattleCamera\StepCamera" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\CollisionAsset\Editor" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\MoveAsset\Editor" />
+     <Folder Include="Assets\Scripts\Runtime\CameraModule\Editor\CameraAsset" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\ShockAsset\Editor" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Editor\ConfigureAsset" />
      <Folder Include="Assets\Scripts\Editor\Actor" />
