@@ -11,6 +11,7 @@ namespace BuffModule.Runtime
         public BuffExecute OnKill;
         public BuffExecute OnBeKill;
         public BuffExecute OnTick;
+        public BuffExecute OnRemove;
         
         public void Clear()
         {
@@ -20,6 +21,7 @@ namespace BuffModule.Runtime
             OnKill = null;
             OnBeKill = null;
             OnTick = null;
+            OnRemove = null;
         }
     }
 }

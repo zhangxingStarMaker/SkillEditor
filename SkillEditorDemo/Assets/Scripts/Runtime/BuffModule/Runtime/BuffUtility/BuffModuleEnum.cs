@@ -35,9 +35,29 @@
     /// <summary>
     /// 当前状态
     /// </summary>
-    public enum BuffState
+    public enum BuffRunningState
     {
         None = 0,
+        /// <summary>
+        /// 激活状态
+        /// </summary>
+        Active = 1, 
+        /// <summary>
+        /// 冷却状态，不可用
+        /// </summary>
+        Cooldown = 2, 
+        /// <summary>
+        /// 中断或者挂起状态
+        /// </summary>
+        Suspended = 3,
+        /// <summary>
+        /// 已经处于叠加状态
+        /// </summary>
+        Stacking = 4,
+        /// <summary>
+        /// 效果过期或者时间结束,可移除状态
+        /// </summary>
+        Expired = 5,
     }
     
 }
