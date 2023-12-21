@@ -494,6 +494,7 @@
 "Assets/Scripts/Runtime/Framework/CoreLogic/Lifestyle/ICoreEntityPreload.cs"
 "Assets/Scripts/Runtime/Framework/CoreLogic/Lifestyle/ICoreEntitySort.cs"
 "Assets/Scripts/Runtime/Framework/CoreLogic/Lifestyle/ICoreEntityUpdate.cs"
+"Assets/Scripts/Runtime/Framework/CoreLogic/Singleton/CoreEventSystem.cs"
 "Assets/Scripts/Runtime/Framework/CoreLogic/Singleton/GameSingletonCenter.cs"
 "Assets/Scripts/Runtime/Framework/CoreLogic/Singleton/IAllSingletonCreateComplete.cs"
 "Assets/Scripts/Runtime/Framework/CoreLogic/Singleton/IdGenerator.cs"
@@ -503,6 +504,8 @@
 "Assets/Scripts/Runtime/Framework/CoreLogic/Singleton/ISingletonOnGUI.cs"
 "Assets/Scripts/Runtime/Framework/CoreLogic/Singleton/ISingletonUpdate.cs"
 "Assets/Scripts/Runtime/Framework/CoreLogic/Singleton/Singleton.cs"
+"Assets/Scripts/Runtime/Framework/EventSystem/EventDispatcher.cs"
+"Assets/Scripts/Runtime/Framework/EventSystem/UnOrderMultiMapSet.cs"
 "Assets/Scripts/Runtime/Framework/FrameUtility/ClassExt/AnimationCurveEx.cs"
 "Assets/Scripts/Runtime/Framework/FrameUtility/ClassExt/ArrayEx.cs"
 "Assets/Scripts/Runtime/Framework/FrameUtility/ClassExt/ColorEx.cs"
@@ -521,6 +524,7 @@
 "Assets/Scripts/Runtime/Framework/FrameUtility/FrameworkLog.cs"
 "Assets/Scripts/Runtime/Framework/FrameUtility/PathDefine.cs"
 "Assets/Scripts/Runtime/Framework/ObjectPool/ObjectPool.cs"
+"Assets/Scripts/Runtime/GameCenter/GameCenter.cs"
 -langversion:9.0
 
 /deterministic

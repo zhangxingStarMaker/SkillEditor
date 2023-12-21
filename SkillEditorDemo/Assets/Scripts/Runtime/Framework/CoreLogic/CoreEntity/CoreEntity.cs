@@ -72,7 +72,7 @@ namespace Module.FrameBase
                 else
                 {
                     LogicEntityCollector.Instance.Add(this);
-                    // CoreEventSystem.Instance.NotifyAddNewEntity(this);
+                    CoreEventSystem.Instance.NotifyAddNewEntity(this);
                 }
 
 #if ENABLE_VIEW && UNITY_EDITOR

@@ -65,6 +65,7 @@
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraControl\CameraControlEntityBase.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraInfo\CameraData.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\FrameUtility\ClassExt\RichTextEx.cs" />
+     <Compile Include="Assets\Scripts\Runtime\Framework\EventSystem\EventDispatcher.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\DualTarget\MoveAimTarget.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraInfo\DampingRecorderData.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\Singleton\ISingletonNotifyGameStart.cs" />
@@ -95,6 +96,7 @@
      <Compile Include="Assets\Scripts\Runtime\AbilityModule\timeline\CollisionAsset\Runtime\AbilityCollisionTrack.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\FrameUtility\ClassExt\ArrayEx.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\Lifestyle\ICoreEntityLateUpdate.cs" />
+     <Compile Include="Assets\Scripts\Runtime\GameCenter\GameCenter.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraControl\LinkCameraControlEntity.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\3rdPersonWithAimMode\ActivateOnKeypress.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\2D\LoseSightWhenTargetsFallsOffThePlatform.cs" />
@@ -124,6 +126,7 @@
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Anywhere Door\TagChanger.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\FrameUtility\ClassExt\TypeEx.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Scripts\ActivateCameraWithDistance.cs" />
+     <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\Singleton\CoreEventSystem.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraInfo\CameraAssetInfo.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Scripts\InvokeEventFromInspector.cs" />
      <Compile Include="Assets\Scripts\Runtime\AbilityModule\common\AbilityTrackEditor.cs" />
@@ -154,6 +157,7 @@
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraAsset\CameraConfigure\CameraGroupItemInfo.cs" />
      <Compile Include="Assets\Scripts\Runtime\AbilityModule\timeline\MoveAsset\Runtime\AbilityMoveMixer.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\Lifestyle\ICoreEntityUpdate.cs" />
+     <Compile Include="Assets\Scripts\Runtime\Framework\EventSystem\UnOrderMultiMapSet.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\FrameWork\CameraComponent\CameraAssetComponent.cs" />
      <Compile Include="Assets\Scripts\Runtime\AbilityModule\timeline\CollisionAsset\Runtime\AbilityCollisionAsset.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraAsset\CameraConfigure\CameraGroupItemConfigure.cs" />
@@ -193,6 +197,7 @@
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\3rdPersonWithAimMode" />
      <Folder Include="Assets\artres\camera\configure_asset" />
      <Folder Include="Assets\artres\actor\player\001\models\textures" />
+     <Folder Include="Assets\Scripts\Runtime\GameCenter" />
      <Folder Include="Assets\artres\camera\step_camera\preset_asset" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Impulse" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\FrameWork" />
@@ -233,6 +238,7 @@
      <Folder Include="Assets\Scripts" />
      <Folder Include="Assets\artres\camera" />
      <Folder Include="Assets\Scripts\Runtime\Framework\CoreLogic\CoreEntity" />
+     <Folder Include="Assets\Scripts\Runtime\BuffModule" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\CollisionAsset" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\BossCamera" />
@@ -256,6 +262,7 @@
      <Folder Include="Assets\Scripts\Runtime\Framework\FrameUtility\ClassExt" />
      <Folder Include="Assets\artres\actor\player\001\ability" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\2D" />
+     <Folder Include="Assets\Scripts\Runtime\Framework\EventSystem" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraAsset\CameraGroup" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Custom Blends" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Models\Materials" />

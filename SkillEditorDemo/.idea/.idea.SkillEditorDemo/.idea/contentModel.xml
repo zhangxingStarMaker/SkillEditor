@@ -691,6 +691,7 @@
                 </e>
               </e>
             </e>
+            <e p="BuffModule" t="Include" />
             <e p="CameraModule" t="Include">
               <e p="Editor" t="Include">
                 <e p="BattleCamera" t="Include">
@@ -854,6 +855,7 @@
                   <e p="ICoreEntityUpdate.cs" t="Include" />
                 </e>
                 <e p="Singleton" t="Include">
+                  <e p="CoreEventSystem.cs" t="Include" />
                   <e p="GameSingletonCenter.cs" t="Include" />
                   <e p="IAllSingletonCreateComplete.cs" t="Include" />
                   <e p="IdGenerator.cs" t="Include" />
@@ -864,6 +866,10 @@
                   <e p="ISingletonUpdate.cs" t="Include" />
                   <e p="Singleton.cs" t="Include" />
                 </e>
+              </e>
+              <e p="EventSystem" t="Include">
+                <e p="EventDispatcher.cs" t="Include" />
+                <e p="UnOrderMultiMapSet.cs" t="Include" />
               </e>
               <e p="FrameUtility" t="Include">
                 <e p="ClassExt" t="Include">
@@ -910,6 +916,9 @@
                 </e>
                 <e p="ObjectPool.cs" t="Include" />
               </e>
+            </e>
+            <e p="GameCenter" t="Include">
+              <e p="GameCenter.cs" t="Include" />
             </e>
           </e>
         </e>
