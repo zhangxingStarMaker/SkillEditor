@@ -1,3 +1,4 @@
+using BuffModule.Runtime;
 using Module.FrameBase;
 using Module.GameCore;
 using Runtime.Framework.FrameUtility;
@@ -18,6 +19,7 @@ public class GameCenter : MonoBehaviour
         
         _clientScene = SceneEntityFactory.CreateLogicScene(0, SceneType.Client, "ClientScene");
         _clientScene.AddComponent<CameraModuleEntity>();
+        _clientScene.AddComponent<BuffModuleEntity>();
     }
 
     void Start()

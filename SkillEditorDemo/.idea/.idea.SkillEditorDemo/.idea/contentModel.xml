@@ -691,7 +691,29 @@
                 </e>
               </e>
             </e>
-            <e p="BuffModule" t="Include" />
+            <e p="BuffModule" t="Include">
+              <e p="Runtime" t="Include">
+                <e p="BuffInfo" t="Include">
+                  <e p="BuffData" t="Include">
+                    <e p="BuffData.cs" t="Include" />
+                    <e p="BuffItem.cs" t="Include" />
+                  </e>
+                  <e p="BuffExecute.cs" t="Include" />
+                  <e p="BuffInfoEntity.cs" t="Include" />
+                  <e p="DamageInfo.cs" t="Include" />
+                </e>
+                <e p="BuffUtility" t="Include">
+                  <e p="BuffModuleEnum.cs" t="Include" />
+                </e>
+                <e p="FrameWork" t="Include">
+                  <e p="BuffModuleEntity.cs" t="Include" />
+                  <e p="Component" t="Include">
+                    <e p="BuffControlComponent.cs" t="Include" />
+                    <e p="BuffPoolComponent.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
             <e p="CameraModule" t="Include">
               <e p="Editor" t="Include">
                 <e p="BattleCamera" t="Include">

@@ -106,8 +106,11 @@
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\BossCamera\CustomLockCameraY.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\FrameUtility\ClassExt\RectTransformEx.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\CoreEntity\SceneHelper.cs" />
+     <Compile Include="Assets\Scripts\Runtime\BuffModule\Runtime\BuffUtility\BuffModuleEnum.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraEntity\MarkEntity\PathMarkEntity.cs" />
+     <Compile Include="Assets\Scripts\Runtime\BuffModule\Runtime\Framework\Component\BuffPoolComponent.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraInfo\CameraMarkInfo.cs" />
+     <Compile Include="Assets\Scripts\Runtime\BuffModule\Runtime\BuffInfo\BuffInfoEntity.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\FrameWork\CameraComponent\CameraTransformComponent.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Trigger volumes\GenericTrigger.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraEntity\CameraEntity\CameraEntity.cs" />
@@ -118,6 +121,7 @@
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraGm\CameraGmAsset.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\Lifestyle\ICoreEntityDestroy.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Scripts\CharacterMovement.cs" />
+     <Compile Include="Assets\Scripts\Runtime\BuffModule\Runtime\BuffInfo\BuffData\BuffItem.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\FrameWork\CameraComponent\CameraDataComponent.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraRoot\CameraRootNode.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Anywhere Door\PlayerMovement.cs" />
@@ -125,11 +129,14 @@
      <Compile Include="Assets\Scripts\Runtime\Framework\FrameUtility\ClassExt\DictionaryEx.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Anywhere Door\TagChanger.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\FrameUtility\ClassExt\TypeEx.cs" />
+     <Compile Include="Assets\Scripts\Runtime\BuffModule\Runtime\BuffInfo\BuffExecute.cs" />
+     <Compile Include="Assets\Scripts\Runtime\BuffModule\Runtime\Framework\BuffModuleEntity.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Scripts\ActivateCameraWithDistance.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\Singleton\CoreEventSystem.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraInfo\CameraAssetInfo.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Scripts\InvokeEventFromInspector.cs" />
      <Compile Include="Assets\Scripts\Runtime\AbilityModule\common\AbilityTrackEditor.cs" />
+     <Compile Include="Assets\Scripts\Runtime\BuffModule\Runtime\BuffInfo\BuffData\BuffData.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraEntity\MarkEntity\ActorMarkEntity.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\CameraMagnets\CameraMagnetProperty.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Scripts\PlayerMovePhysics.cs" />
@@ -139,6 +146,7 @@
      <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\Singleton\ISingletonLateUpdate.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Anywhere Door\PlayerLookAt.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\Lifestyle\ICoreEntityAddComponent.cs" />
+     <Compile Include="Assets\Scripts\Runtime\BuffModule\Runtime\Framework\Component\BuffControlComponent.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraAsset\CameraConfigure\CameraConfigure.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\Singleton\IAllSingletonCreateComplete.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\CoreEntity\DisposeObject.cs" />
@@ -159,6 +167,7 @@
      <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\Lifestyle\ICoreEntityUpdate.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\EventSystem\UnOrderMultiMapSet.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\FrameWork\CameraComponent\CameraAssetComponent.cs" />
+     <Compile Include="Assets\Scripts\Runtime\BuffModule\Runtime\BuffInfo\DamageInfo.cs" />
      <Compile Include="Assets\Scripts\Runtime\AbilityModule\timeline\CollisionAsset\Runtime\AbilityCollisionAsset.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraAsset\CameraConfigure\CameraGroupItemConfigure.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\FrameUtility\ClassExt\ComponentEx.cs" />
@@ -196,6 +205,7 @@
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraEntity\MarkEntity" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\3rdPersonWithAimMode" />
      <Folder Include="Assets\artres\camera\configure_asset" />
+     <Folder Include="Assets\Scripts\Runtime\BuffModule\Runtime\BuffInfo\BuffData" />
      <Folder Include="Assets\artres\actor\player\001\models\textures" />
      <Folder Include="Assets\Scripts\Runtime\GameCenter" />
      <Folder Include="Assets\artres\camera\step_camera\preset_asset" />
@@ -234,9 +244,11 @@
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\DualTarget" />
      <Folder Include="Assets\Scripts\Runtime\Framework\ObjectPool" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\ClearShot" />
+     <Folder Include="Assets\Scripts\Runtime\BuffModule\Runtime\Framework" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\FadeOutNearbyObjects" />
      <Folder Include="Assets\Scripts" />
      <Folder Include="Assets\artres\camera" />
+     <Folder Include="Assets\Scripts\Runtime\BuffModule\Runtime\Framework\Component" />
      <Folder Include="Assets\Scripts\Runtime\Framework\CoreLogic\CoreEntity" />
      <Folder Include="Assets\Scripts\Runtime\BuffModule" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline" />
@@ -249,10 +261,12 @@
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\ShockAsset" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraUtility" />
      <Folder Include="Assets\artres\actor" />
+     <Folder Include="Assets\Scripts\Runtime\BuffModule\Runtime\BuffUtility" />
      <Folder Include="Assets\artres\actor\player\001\ani\wp" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Prefabs" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Prefabs" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule" />
+     <Folder Include="Assets\Scripts\Runtime\BuffModule\Runtime" />
      <Folder Include="Assets\artres\actor\player" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraAsset\CameraConfigure" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraEntity" />
@@ -278,6 +292,7 @@
      <Folder Include="Assets\Scripts\Runtime\Framework\CoreLogic\Singleton" />
      <Folder Include="Assets\artres\abilitytimeline" />
      <Folder Include="Assets\artres\abilityprefabs" />
+     <Folder Include="Assets\Scripts\Runtime\BuffModule\Runtime\BuffInfo" />
      <Folder Include="Assets\artres\actor\player\001" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\CameraMagnets" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\PauseFrameAsset\Runtime" />

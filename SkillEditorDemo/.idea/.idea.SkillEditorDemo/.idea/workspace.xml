@@ -5,10 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraModuleEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraModuleEntity.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/CoreLogic/CoreEntity/CoreEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/CoreLogic/CoreEntity/CoreEntity.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/FrameUtility/FrameworkEnum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/FrameUtility/FrameworkEnum.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/GameCenter/GameCenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/GameCenter/GameCenter.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE-inputdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE-inputdata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.json" afterDir="false" />
@@ -23,16 +21,12 @@
       <change beforePath="$PROJECT_DIR$/Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/fullprofile.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.log.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Search/transactions.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Search/transactions.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,30 +37,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffInfoEntity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B9FA26E-8611-4FCB-A20D-A47317E725FE/ba/0c5969c3/FrameDebugger.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/GameCenter/GameCenter.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/CameraModule/Scripts/CameraEntity/MarkEntity/ActorMarkEntity.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/CameraModule/Scripts/CameraEntity/CameraEntity/CameraEntity.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/FrameWork/FrameUtility/FrameDebugger.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/FrameWork/ObjectPool/CommonObjectPool.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/FrameWork/ObjectPool/IObjectPool.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/FrameWork/ObjectPool/ObjectPool.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/CameraModule/Scripts/CameraInfo/CameraData.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/CameraModule/Scripts/FrameWork/CameraModuleEntity.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/FrameWork/EntityBase/CoreEntity.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/CoreLogic/Lifestyle/ICoreEntityPreload.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/CoreLogic/CoreEntity/LogicScene.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/CoreLogic/CoreEntity/SceneEntityFactory.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/CoreLogic/Singleton/Singleton.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/CoreLogic/Singleton/GameSingletonCenter.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/FrameUtility/FrameworkLog.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/CoreLogic/Singleton/IdGenerator.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/FrameUtility/ClassExt/AnimationCurveEx.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/FrameUtility/ClassExt/ColorEx.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/FrameUtility/ClassExt/FileEx.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/FrameUtility/ClassExt/ListEx.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/FrameUtility/ClassExt/Vector2IntExt.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/FrameUtility/ClassExt/StringEx.cs" />
@@ -97,8 +73,27 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/FrameUtility/FrameworkEnum.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/CoreLogic/Singleton/CoreEventSystem.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Framework/CoreLogic/CoreEntity/CoreEntity.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/GameCenter/GameCenter.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/FrameWork/CameraModuleEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/BuffModuleEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffData/BuffItem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffData/BufferInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/GameCenter/GameCenter.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/Framework/Component/BuffComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/Framework/Component/BuffHandleComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffData/BuffInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffData/BuffData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffData/BuffInfoEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/Framework/BuffModuleEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/Framework/Component/BuffPoolComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffOnExcute.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffOnExecute.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/DamageInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffExecute.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/BuffData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffUtility/BuffModuleEnum.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/BuffItem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffInfoEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/Framework/Component/BuffControlComponent.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2Nj2EDmJL3fSZhj6XVwZHsvyxwE" />
@@ -161,7 +156,7 @@
       <workItem from="1680489275467" duration="15208000" />
       <workItem from="1693228446459" duration="3030000" />
       <workItem from="1702957070219" duration="5283000" />
-      <workItem from="1702971664441" duration="19078000" />
+      <workItem from="1702971664441" duration="28166000" />
     </task>
     <servers />
   </component>
