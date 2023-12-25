@@ -109,6 +109,7 @@ namespace BuffModule.Runtime
             }
 
             _durationTimer -= _buffData.BuffItem.DurationTime;
+            OnExecute(_buffData.OnRemove);//删除叠层的时候也需要触发remove
             if (_durationTimer <= 0)
             {
                 FrameworkLog.LogError("计算出错，出现减少层数后时间小于零的情况");

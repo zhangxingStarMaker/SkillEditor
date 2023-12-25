@@ -102,6 +102,7 @@
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\2D\LoseSightWhenTargetsFallsOffThePlatform.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\ObjectPool\ObjectPool.cs" />
      <Compile Include="Assets\Scripts\Runtime\AbilityModule\timeline\ShockAsset\Runtime\AbilityShockBehaviour.cs" />
+     <Compile Include="Assets\Scripts\Runtime\NumericModule\Runtime\FrameBase\NumericConstDefine.cs" />
      <Compile Include="Assets\Scripts\Runtime\AbilityModule\timeline\InputAsset\Runtime\AbilityInputBehavior.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\BossCamera\CustomLockCameraY.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\FrameUtility\ClassExt\RectTransformEx.cs" />
@@ -113,6 +114,7 @@
      <Compile Include="Assets\Scripts\Runtime\BuffModule\Runtime\BuffInfo\BuffInfoEntity.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\FrameWork\CameraComponent\CameraTransformComponent.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Trigger volumes\GenericTrigger.cs" />
+     <Compile Include="Assets\Scripts\Runtime\NumericModule\Runtime\BattleNumeric\BattleNumericType.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraEntity\CameraEntity\CameraEntity.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\FrameUtility\FrameworkEnum.cs" />
      <Compile Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\CameraMagnets\CameraMagnetTargetController.cs" />
@@ -188,6 +190,7 @@
      <Compile Include="Assets\Scripts\Runtime\Framework\FrameUtility\ClassExt\IEnumerableEx.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraInfo\CameraAsset.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\FrameWork\CameraComponent\CameraEntityComponent.cs" />
+     <Compile Include="Assets\Scripts\Runtime\NumericModule\Runtime\FrameBase\Component\NumericComponent.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\FrameUtility\ClassExt\ColorEx.cs" />
      <Compile Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraEntity\CameraEntity\NormalCameraEntity.cs" />
      <Compile Include="Assets\Scripts\Runtime\Framework\CoreLogic\Lifestyle\ICoreEntityGetComponent.cs" />
@@ -198,7 +201,9 @@
      <Folder Include="Assets\Samples\Cinemachine\2.8.9" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\FrameWork\CameraComponent\CameraControlComponent" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Scripting" />
+     <Folder Include="Assets\Scripts\Runtime\NumericModule" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Anywhere Door\Materials" />
+     <Folder Include="Assets\Scripts\Runtime\NumericModule\Runtime\FrameBase\Component" />
      <Folder Include="Assets\artres\actor\player\001\timeline" />
      <Folder Include="Assets\Samples" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\InputAsset\Runtime" />
@@ -234,6 +239,7 @@
      <Folder Include="Assets\Scripts\Runtime\Framework\FrameUtility" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Tracked Dolly" />
      <Folder Include="Assets\artres\camera\step_camera\preset_prefab" />
+     <Folder Include="Assets\Scripts\Runtime\NumericModule\Runtime\FrameBase" />
      <Folder Include="Assets\Samples\Cinemachine" />
      <Folder Include="Assets\Scripts\Runtime" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Scripts" />
@@ -280,6 +286,7 @@
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraAsset\CameraGroup" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\Custom Blends" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Models\Materials" />
+     <Folder Include="Assets\Scripts\Runtime\NumericModule\Runtime\BattleNumeric" />
      <Folder Include="Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Shared\Models\UnityCharacter" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\CollisionAsset\Runtime" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\common" />
@@ -289,6 +296,7 @@
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\InputAsset" />
      <Folder Include="Assets\Scripts\Runtime\AbilityModule\timeline\PauseFrameAsset" />
      <Folder Include="Assets\Scripts\Runtime\CameraModule\Scripts\CameraInfo" />
+     <Folder Include="Assets\Scripts\Runtime\NumericModule\Runtime" />
      <Folder Include="Assets\Scripts\Runtime\Framework\CoreLogic\Singleton" />
      <Folder Include="Assets\artres\abilitytimeline" />
      <Folder Include="Assets\artres\abilityprefabs" />

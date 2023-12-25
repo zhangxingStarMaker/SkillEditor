@@ -534,6 +534,9 @@
 "Assets/Scripts/Runtime/Framework/FrameUtility/PathDefine.cs"
 "Assets/Scripts/Runtime/Framework/ObjectPool/ObjectPool.cs"
 "Assets/Scripts/Runtime/GameCenter/GameCenter.cs"
+"Assets/Scripts/Runtime/NumericModule/Runtime/BattleNumeric/BattleNumericType.cs"
+"Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase/Component/NumericComponent.cs"
+"Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase/NumericConstDefine.cs"
 -langversion:9.0
 
 /deterministic

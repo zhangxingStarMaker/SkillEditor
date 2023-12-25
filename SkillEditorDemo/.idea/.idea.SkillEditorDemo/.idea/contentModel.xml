@@ -942,6 +942,19 @@
             <e p="GameCenter" t="Include">
               <e p="GameCenter.cs" t="Include" />
             </e>
+            <e p="NumericModule" t="Include">
+              <e p="Runtime" t="Include">
+                <e p="BattleNumeric" t="Include">
+                  <e p="BattleNumericType.cs" t="Include" />
+                </e>
+                <e p="FrameBase" t="Include">
+                  <e p="Component" t="Include">
+                    <e p="NumericComponent.cs" t="Include" />
+                  </e>
+                  <e p="NumericConstDefine.cs" t="Include" />
+                </e>
+              </e>
+            </e>
           </e>
         </e>
       </e>
