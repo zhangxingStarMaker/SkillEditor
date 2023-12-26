@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7654bdc5-9bc6-4426-b57d-c1c37f5b03cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/BattleNumeric.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/BattleNumeric/BattleNumericType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/BattleNumeric/BattleNumericType.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase/Component.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase/Component/NumericComponent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase/Component/NumericComponent.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase/NumericConstDefine.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase/NumericConstDefine.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkillEditorDemo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffInfoEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffInfoEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/BuffItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/BuffItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/DamageInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/DamageInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/BattleNumeric/BattleNumericType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/BattleNumeric/BattleNumericType.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE-inputdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE-inputdata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.json" afterDir="false" />
@@ -35,7 +26,6 @@
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Search/transactions.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Search/transactions.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,11 +43,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraUtility/CameraDebugger.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/CameraPrepareEntity.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Scripts/CameraInfo/DampingRecorderData.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/StepCamera/TimeLine/StepCameraMixBehaviour.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/StepCamera/TimeLine/StepCameraTrackEditor.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/StepCamera/StepCameraEditorComponent.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/BattleCamera/BattleEditorComponent.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraModule/Editor/CameraPreview/CameraPreviewMixerBehaviour.cs" />
@@ -92,9 +77,7 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/Framework/Component/BuffPoolComponent.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffOnExcute.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffOnExecute.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/DamageInfo.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffExecute.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/BuffItem.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/BuffData.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffUtility/BuffModuleEnum.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/Framework/Component/BuffControlComponent.cs" />
@@ -104,6 +87,13 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase/NumericConstDefine.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/FrameBase/Component/NumericComponent.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/NumericModule/Runtime/BattleNumeric/BattleNumericType.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/DamageData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/DamageInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/SkillInfo/SkillModel.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/SkillModule/Runtime/SkillInfo/SkillInfoEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/AddBuffInfoEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/CharacterInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/BuffModule/Runtime/BuffInfo/BuffData/BuffItem.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2Nj2EDmJL3fSZhj6XVwZHsvyxwE" />
@@ -167,7 +157,7 @@
       <workItem from="1693228446459" duration="3030000" />
       <workItem from="1702957070219" duration="5283000" />
       <workItem from="1702971664441" duration="44599000" />
-      <workItem from="1703471707854" duration="12054000" />
+      <workItem from="1703471707854" duration="27178000" />
     </task>
     <servers />
   </component>

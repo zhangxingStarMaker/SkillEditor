@@ -695,11 +695,14 @@
               <e p="Runtime" t="Include">
                 <e p="BuffInfo" t="Include">
                   <e p="BuffData" t="Include">
+                    <e p="AddBuffInfoEntity.cs" t="Include" />
                     <e p="BuffData.cs" t="Include" />
                     <e p="BuffItem.cs" t="Include" />
+                    <e p="CharacterInfo.cs" t="Include" />
                   </e>
                   <e p="BuffExecute.cs" t="Include" />
                   <e p="BuffInfoEntity.cs" t="Include" />
+                  <e p="DamageData.cs" t="Include" />
                   <e p="DamageInfo.cs" t="Include" />
                 </e>
                 <e p="BuffUtility" t="Include">
@@ -953,6 +956,16 @@
                   </e>
                   <e p="NumericConstDefine.cs" t="Include" />
                 </e>
+              </e>
+            </e>
+            <e p="SkillModule" t="Include">
+              <e p="Runtime" t="Include">
+                <e p="FrameBase" t="Include" />
+                <e p="SkillInfo" t="Include">
+                  <e p="SkillInfoEntity.cs" t="Include" />
+                  <e p="SkillModel.cs" t="Include" />
+                </e>
+                <e p="SkillUtility" t="Include" />
               </e>
             </e>
           </e>

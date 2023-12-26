@@ -15,11 +15,11 @@
         /// <summary>
         /// 速度增加
         /// </summary>
-        SpeedAdd = Speed * NumericConstDefine.TakeDefaultCoefficient+2,
+        SpeedAdd = Speed * NumericConstDefine.TakeDefaultCoefficient + 2,
         /// <summary>
         /// 速度增加百分比
         /// </summary>
-        SpeedPct = Speed *NumericConstDefine.TakeDefaultCoefficient +3,
+        SpeedPct = Speed *NumericConstDefine.TakeDefaultCoefficient + 3,
         /// <summary>
         /// 最终速度增加值
         /// </summary>
@@ -27,16 +27,33 @@
         /// <summary>
         /// 最终速度增加百分比
         /// </summary>
-        SpeedFinalPct = Speed * NumericConstDefine.TakeDefaultCoefficient +5,
+        SpeedFinalPct = Speed * NumericConstDefine.TakeDefaultCoefficient + 5,
         
         /// <summary>
-        /// 暂不知
+        /// 血量
         /// </summary>
         Hp = 1001,
         /// <summary>
         /// 基础生命值
         /// </summary>
         HpBase = Hp * NumericConstDefine.TakeDefaultCoefficient +1,
+        /// <summary>
+        /// 血量增加
+        /// </summary>
+        HpAdd = Hp * NumericConstDefine.TakeDefaultCoefficient + 2,
+        /// <summary>
+        /// 血量百分比
+        /// </summary>
+        HpPct = Hp * NumericConstDefine.TakeDefaultCoefficient + 3,
+        /// <summary>
+        /// 血量最终增加
+        /// </summary>
+        HpFinalAdd = Hp * NumericConstDefine.TakeDefaultCoefficient + 4,
+        /// <summary>
+        /// 血量最终百分比
+        /// </summary>
+        HpFinalPct = Hp * NumericConstDefine.TakeDefaultCoefficient + 5,
+
         /// <summary>
         /// 最大生命值
         /// </summary>
